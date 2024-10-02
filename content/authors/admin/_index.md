@@ -77,28 +77,27 @@ education:
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant and Demonstrator
+    company_name: Birkbeck, University of London
+    company_url: 'https://bbk.ac.uk/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Worked on the Neurodiversity in Business project at Birkbeck for 8 months, performing thematic analysis, designing a Qualtrics survey, and conducting quantitative analysis in R. Produced an 80-page report sponsored by the 	Neurodiversity in Business charity.
+      - Demonstrated for the Principles of Experimental Psychology module (MSc Psychology) at Birkbeck, where I guided 20 students through statistical tests (e.g., t-tests, ANOVAs, regressions and factor analyses), supervised their 	research projects (design and analysis) and completed marking.
+  - position: Project Manager, Global Finance Technology
+    company_name: JPMorgan Chase Bank
+    company_url: 'https://www.jpmorganchase.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-01-01
+    date_end: 2020-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led virtual project teams of up to 25 individuals across 8 locations, taking ownership of project timelines, budgets, and successful delivery of finance and regulatory projects.
+      - Established and maintained robust working relationships with cross-functional teams, vendors and key business stakeholders. 
+      - Played a key leadership role in project coordination, test management, implementation management and documentation, ensuring project plan and objective adherence.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
