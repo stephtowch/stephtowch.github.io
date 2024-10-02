@@ -104,18 +104,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
       - name: RStudio
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: Python
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 50
+        icon: devicon/python
+      - name: Mplus
+        description: ''
+        percent: 80
+        icon: devicon/mplus
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
