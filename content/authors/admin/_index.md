@@ -155,4 +155,4 @@ awards:
       I was awarded a fully funded ESRC studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
-Stephanie Towch is a PhD candidate in Psychology at Birkbeck, University of London. Her research interests include behavioral addictions, health psychology, psychometrics and data science. She is currently working as a research assistant and demonstrator at Birkbeck, University of London and is open to work opportunities.
+I am  currently working as a research assistant and demonstrator at Birkbeck, University of London and am open to work opportunities. My research interests include behavioral addictions, health psychology, psychometrics and data science.
