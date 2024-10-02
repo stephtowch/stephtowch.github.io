@@ -136,9 +136,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
+    percent: 80
+  - name: German
     percent: 25
 
 # Awards.
@@ -155,4 +155,4 @@ awards:
       I was awarded a fully funded ESRC studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Stephanie Towch is a PhD candidate in Psychology at Birkbeck, University of London. Her research interests include behavioral addictions, health psychology, psychometrics and data science. She is currently working as a research assistant and demonstrator at Birkbeck, University of London and is open to work opportunities.
