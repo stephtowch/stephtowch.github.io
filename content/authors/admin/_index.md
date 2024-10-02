@@ -75,23 +75,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
-  - area: MSc Psychology
-    institution: Birkbeck, University of London
-    date_start: 2019-10-1
-    date_end: 2021-09-30
-    summary: |
-      Grade: (Merit)
-      Thesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
-      Courses included:
-      - Research Methods 1
-      - Research Methods 2
-      - Neuroscience 
-      - Developmental Psychology
-      - Social Psychology
-      - Individual Differences 
-      - Learning and Memory 
-      - Perception, Attention and Performance 
-      - MSc Psychology Dissertation  
 
 work:
   - position: Director of Cloud Infrastructure
