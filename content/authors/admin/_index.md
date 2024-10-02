@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Stephanie Towch
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Stephanie
+last_name: Towch
 
 # Status emoji
 status:
@@ -17,60 +17,65 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Psychology Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Birkbeck, University of London
+    url: https://www.bbk.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:stephanietowch@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/stephtowch
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/stephanie-towch-4b2549206/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Psychology
+    institution: Birkbeck, University of London
+    date_start: 2023-10-01
+    date_end: 2029-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+       hesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Currently working on a systematic review study titled, "What is work addiction and what it is not: A systematic review of work addiction and workaholism (1971-2024) with implications for health and wellbeing.
+  - area: MA Social Science Data Analysis
+    institution: The Essex Summer School, UK
+    date_start: 2024-07-01
+    date_end: 2026-09-30
+    summary: |
+      Courses included:
+      - Web Scraping and Data Management
+      - Confirmatory Factor Analysis and Structural Equation Modelling
+      - Machine Learning for Social Scientists
+      - Machine Learning for Estimating Treatment Effects from Observational Data
+  - area: MSc Organizational Psychology
+    institution: Birkbeck, University of London
+    date_start: 2021-10-01
+    date_end: 2023-09-30
+    summary: |
+      Grade: (Distinction)
+      Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
+      Courses included:
+      - Research Methods
+      - Selection and Assessment
+      - Life Career Development
+      - Employee Relations and Motivation
+      - Learning and Development
+      - Leadership and Performance Management
+      - Work and Wellbeing
+      - Research Project (Organizational Psychology)
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
