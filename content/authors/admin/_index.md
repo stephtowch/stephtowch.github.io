@@ -112,10 +112,10 @@ skills:
         description: ''
         percent: 50
         icon: devicon/python
-      - name: Mplus
+      - name: SPSS
         description: ''
-        percent: 80
-        icon: devicon/mplus
+        percent: 100
+        icon: devicon/spss
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -127,11 +127,11 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: 🖌
+        icon: art
       - name: Travel
         description: ''
         percent: 80
-        icon: airplane
+        icon: travel
 
 languages:
   - name: English
