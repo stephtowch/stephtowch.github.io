@@ -81,7 +81,7 @@ education:
     date_end: 2021-09-30
     summary: |
       Grade: (Distinction)
-      hesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
+      Thesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
       Courses included:
       - Research Methods
       - Neuroscience
@@ -91,6 +91,20 @@ education:
       - Learning and Memory
       - Perception, Attention and Performance
       - Research Project (Msc Psychology)
+  - area: BA (Hons) Financial Services
+    institution: Bournemouth University, UK
+    date_start: 2001-10-01
+    date_end: 2005-08-31
+    summary: |
+      Grade: (2:1, Merit)
+      Thesis on "Afterwork: Final Salary versus Defined Benefits Pension Scheme"
+      Courses included:
+      - Investment Management
+      - Corporate Strategy
+      - Corporate Financial Management
+      - Law of Personal Taxation 2
+      - Vocational Language Studies - French Stage 5
+      - Research Project (BA Hons Financial Services)
 
 work:
   - position: Research Assistant and Demonstrator
