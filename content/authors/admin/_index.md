@@ -178,7 +178,7 @@ languages:
 awards:
   - title: Economic and Social Research Council Grant
     url: https://ubel-dtp.ac.uk/esrc-studentships-main-competition/#:~:text=What's%20on%20offer,figure%20includes%20the%20London%20Allowance.
-    date: '2023-11-25'
+    date: '2024-06-28'
     awarder: ESRC
     icon: 
     summary: |
