@@ -75,6 +75,25 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
+  - area: MSc Organizational Psychology
+    institution: Birkbeck, University of London
+    date_start: 2021-10-01
+    date_end: 2023-09-30
+    summary: |
+      Grade: (Distinction)
+      Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
+      Courses included:
+      - Research Methods
+      - Selection and Assessment
+      - Life Career Development
+      - Employee Relations and Motivation
+      - Learning and Development
+      - Leadership and Performance Management
+      - Work and Wellbeing
+      - Research Project (Organizational Psychology)
+    button:
+      text: 'Read Thesis'
+      url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
 
 work:
   - position: Research Assistant and Demonstrator
