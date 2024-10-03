@@ -61,7 +61,7 @@ education:
     date_start: 2021-10-01
     date_end: 2023-09-30
     summary: |
-      Grade: (Distinction)
+      Grade: (Merit)
       Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
       Courses included:
       - Research Methods
@@ -75,25 +75,22 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
-  - area: MSc Organizational Psychology
+  - area: MSc Psychology
     institution: Birkbeck, University of London
-    date_start: 2021-10-01
-    date_end: 2023-09-30
+    date_start: 2019-10-01
+    date_end: 2021-09-30
     summary: |
       Grade: (Distinction)
-      Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
+      hesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
       Courses included:
       - Research Methods
-      - Selection and Assessment
-      - Life Career Development
-      - Employee Relations and Motivation
-      - Learning and Development
-      - Leadership and Performance Management
-      - Work and Wellbeing
-      - Research Project (Organizational Psychology)
-    button:
-      text: 'Read Thesis'
-      url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
+      - Neuroscience
+      - Developmental Psychology
+      - Social Psychology
+      - Individual Differences 
+      - Learning and Memory
+      - Perception, Attention and Performance
+      - Research Project (Msc Psychology)
 
 work:
   - position: Research Assistant and Demonstrator
