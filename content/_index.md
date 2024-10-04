@@ -15,12 +15,13 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
+      buttons:
         text: Download Résumé
         url: uploads/resume.pdf
-      button:
+        style: "primary"
         text: My latest paper
         url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
+        style: "success"
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
