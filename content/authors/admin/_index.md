@@ -128,8 +128,38 @@ work:
       - Led virtual project teams of up to 25 individuals across 8 locations, taking ownership of project timelines, budgets, and successful delivery of finance and regulatory projects.
       - Established and maintained robust working relationships with cross-functional teams, vendors and key business stakeholders. 
       - Played a key leadership role in project coordination, test management, implementation management and documentation, ensuring project plan and objective adherence.
+  - position: Change Manager, Finance and Business Management
+    company_name: JPMorgan Chase Bank
+    company_url: 'https://www.jpmorganchase.com/'
+    company_logo: ''
+    date_start: 2012-01-01
+    date_end: 2012-12-31
+    summary: |
+      Responsibilities include:
+      - Spearheaded strategic transformation initiatives within JPMorgan's finance projects team, optimising processes and enhancing operational efficiency.
+      - Conducted comprehensive change impact assessments, identifying risks and developing mitigation strategies, while fostering stakeholder engagement and coordinating training programs.
+  - position: Trader's Assistant, Commodities Exotics Desk
+    company_name: JPMorgan Chase Bank
+    company_url: 'https://www.jpmorganchase.com/'
+    company_logo: ''
+    date_start: 2007-01-02
+    date_end: 2012-12-30
+    summary: |
+      Responsibilities include:
+      - Ownership of the complete end-to-end trade lifecycle, ensuring meticulous accuracy in trade capture and comprehensive risk management across diverse commodities.
+      - Led pivotal projects, notably the Pyramid to Athena transition and Index Swap Migration to Kapital. Oversaw thorough UAT testing, ensuring precision in trade capture. Demonstrated adept problem-solving skills, contributing to successful project outcomes.
+  - position: Settlements Analyst, Commodities Back Office
+    company_name: JPMorgan Chase Bank
+    company_url: 'https://www.jpmorganchase.com/'
+    company_logo: ''
+    date_start: 2005-06-05
+    date_end: 2007-01-01
+    summary: |
+      Responsibilities include:
+      - Ownership of settlements for the commodities desk, ensuring accuracy and integrity of financial transactions.
+      - Developed proficiency in commodities, finance, derivatives, and enhanced problem-solving skills through hands-on experience in a dynamic financial environment.
 
-# Skills
+ # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
@@ -169,6 +199,8 @@ languages:
   - name: French
     percent: 80
   - name: German
+    percent: 25
+  - name: Japanese
     percent: 25
 
 # Awards.
