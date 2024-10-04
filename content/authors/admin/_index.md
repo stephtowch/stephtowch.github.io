@@ -187,11 +187,11 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: artist-palette
+        icon: paintbrush
       - name: Travel
         description: ''
         percent: 80
-        icon: travel
+        icon: airplane
 
 languages:
   - name: English
