@@ -18,6 +18,9 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
+      button:
+        text: My latest paper
+        url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
