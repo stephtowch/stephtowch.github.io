@@ -19,7 +19,7 @@ sections:
         text: Read My Latest Paper
         url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
     design:
-      background:
+      banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
