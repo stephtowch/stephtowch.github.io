@@ -217,4 +217,4 @@ awards:
       I was awarded a fully funded ESRC studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
-I am  currently working as a research assistant and demonstrator at Birkbeck, University of London and am open to work opportunities. My research interests include behavioral addictions, health psychology, psychometrics and data science.
+I am a Graduate Member of the British Psychological Society and the European Association of Work and Organizational Psychology. I am currently working in the School of Psychological Sciences at Birkbeck, University of London as a research assistant and demonstrator. However, I am open to work opportunities. My research interests include behavioral addictions, health psychology, psychometrics and data science.
