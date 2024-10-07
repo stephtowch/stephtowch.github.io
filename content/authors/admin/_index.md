@@ -187,7 +187,7 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: 🎨
+        icon: ARTIST PALETTE
       - name: Travel
         description: ''
         percent: 80
