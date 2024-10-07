@@ -18,18 +18,10 @@ sections:
       button:
         text: Read My Latest Paper
         url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-          filters:
-            brightness: 0.6
-          size: cover
-          position: center
-          parallax: false
+design:
+      banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
