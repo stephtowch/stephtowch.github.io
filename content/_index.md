@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
