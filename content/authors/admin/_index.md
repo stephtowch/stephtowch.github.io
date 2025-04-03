@@ -51,7 +51,12 @@ education:
     date_start: 2024-07-01
     date_end: 2026-09-30
     summary: |
-      Courses included: 1) Web Scraping and Data Management, 2) Confirmatory Factor Analysis and Structural Equation Modelling, 3) Machine Learning for Social Scientists and 4) Machine Learning for Estimating Treatment Effects from Observational Data
+      Courses included:
+      - Web Scraping and Data Management
+      - Confirmatory Factor Analysis and Structural Equation Modelling
+      - Machine Learning for Social Scientists
+      - Machine Learning for Estimating Treatment Effects from Observational Data
+      Courses included:
   - area: MSc Organizational Psychology
     institution: Birkbeck, University of London
     date_start: 2021-10-01
@@ -121,10 +126,10 @@ work:
     date_end: 2020-09-30
     summary: |
       Led global finance technology initiatives, managing cross-functional teams of 25+ across 8 locations. Progressed through multiple roles with increasing responsibility:
-      - Project Manager, Global Finance Technology (2013-2020): Delivered critical finance and regulatory projects while managing timelines, budgets, and stakeholder relationships.
-      - Change Manager (2012): Spearheaded transformation initiatives and conducted change impact assessments. 
-      - Trader's Assistant, Commodities (2007-2012): Managed end-to-end trade lifecycle and led system migration projects.
-      - Settlements Analyst (2005-2007): Ensured accuracy of commodities transactions while developing industry expertise.
+      - **Project Manager, Global Finance Technology (2013-2020)**: Delivered critical finance and regulatory projects while managing timelines, budgets, and stakeholder relationships.
+      - **Change Manager (2012)**: Spearheaded transformation initiatives and conducted change impact assessments. 
+      - **Trader's Assistant, Commodities (2007-2012)**: Managed end-to-end trade lifecycle and led system migration projects.
+      - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
  # Skills
 # Add your own SVG icons to `assets/media/icons/`
