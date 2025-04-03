@@ -51,7 +51,7 @@ education:
     date_start: 2024-07-01
     date_end: 2026-09-30
     summary: |
-      Courses included:
+      Courses include:
       - Web Scraping and Data Management
       - Confirmatory Factor Analysis and Structural Equation Modelling
       - Machine Learning for Social Scientists
@@ -64,7 +64,7 @@ education:
     summary: |
       Grade: (Merit)
       Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
-      Courses included:
+      Courses include:
       - Research Methods
       - Selection and Assessment
       - Life Career Development
@@ -72,7 +72,7 @@ education:
       - Learning and Development
       - Leadership and Performance Management
       - Work and Wellbeing
-      - Research Project (Organizational Psychology)
+      - Research Project (MSc Organizational Psychology)
     button:
       text: 'Read Thesis'
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
@@ -83,7 +83,7 @@ education:
     summary: |
       Grade: (Distinction)
       Thesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
-      Courses included:
+      Courses include:
       - Research Methods
       - Neuroscience
       - Developmental Psychology
@@ -91,7 +91,7 @@ education:
       - Individual Differences 
       - Learning and Memory
       - Perception, Attention and Performance
-      - Research Project (Msc Psychology)
+      - Research Project (MSc Psychology)
   - area: BA (Hons) Financial Services
     institution: Bournemouth University, UK
     date_start: 2001-10-01
@@ -99,25 +99,27 @@ education:
     summary: |
       Grade: (2:1, Merit)
       Thesis on "Afterwork: Final Salary versus Defined Benefits Pension Scheme"
-      Courses included:
+      Courses include:
       - Investment Management
       - Corporate Strategy
       - Corporate Financial Management
       - Law of Personal Taxation 2
       - Vocational Language Studies - French Stage 5
-      - Research Project (BA Hons Financial Services)
+      - Research Project (BA (Hons) Financial Services)
 
 work:
-  - position: Research Assistant and Teaching Assistant
+  - position: Research Methods Teaching Assistant
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: '2022-10-01'
-    summary: |
-      Responsibilities include:
-      - Worked on the Neurodiversity in Business project at Birkbeck for 8 months, performing thematic analysis, designing a Qualtrics survey, and conducting quantitative analysis in R. Produced an 80-page report sponsored by the 	Neurodiversity in Business charity.
-      - Teaching Assistant for the Principles of Experimental Psychology module (MSc Psychology) at Birkbeck, where I guided 20 students through statistical tests (e.g., t-tests, ANOVAs, regressions and factor analyses), supervised their 	research projects (design and analysis) and completed marking.
+    date_start: 2024-04-01
+    date_end: '2024-10-01'
+  - position: Research Assistant 
+    company_name: Birkbeck, University of London
+    company_url: 'https://bbk.ac.uk/'
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: '2024-06-01'
   - position: Senior Finance Technology Professional
     company_name: JPMorgan Chase Bank
     company_url: 'https://www.jpmorganchase.com/'
