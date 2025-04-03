@@ -91,6 +91,7 @@ education:
       - Learning and Memory
       - Perception, Attention and Performance
       - Research Project (MSc Psychology)
+
       **Grade: Distinction**
   - area: BA (Hons) Financial Services
     institution: Bournemouth University, UK
@@ -105,6 +106,7 @@ education:
       - Law of Personal Taxation 2
       - Vocational Language Studies - French Stage 5
       - Research Project (BA (Hons) Financial Services)
+
       **Grade: 2:1**
 work:
   - position: Research Methods Teaching Assistant
