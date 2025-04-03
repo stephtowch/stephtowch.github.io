@@ -167,7 +167,7 @@ skills:
       - name: Art
         description: ''
         percent: 100
-        icon: palette
+        icon: assets/media/artist-palette.svg
       - name: Travel
         description: ''
         percent: 100
