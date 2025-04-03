@@ -165,7 +165,7 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: 🎨
+        icon: brush
       - name: Travel
         description: ''
         percent: 80
