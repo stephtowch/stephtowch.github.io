@@ -137,18 +137,22 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: RStudio
+      - name: DATA SCIENCE
+        description: ''
+        percent: 100    
+      - name: R
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: Python
-        description: ''
-        percent: 50
-        icon: devicon/python
+        icon: devicon/r
       - name: SPSS
         description: ''
         percent: 100
         icon: devicon/spss
+      - name: PYTHON
+        description: ''
+        percent: 50
+        icon: devicon/python
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -164,7 +168,7 @@ skills:
       - name: Travel
         description: ''
         percent: 80
-        icon: plane
+        icon: globe-europe-africa
 
 languages:
   - name: English
