@@ -47,7 +47,7 @@ education:
     date_start: 2023-10-01
     date_end: 2029-03-31
     summary: |
-       Thesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Funded by the Economic and Social Research Council, UK.
+       Thesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Funded by the Economic and Social Research Council [ESRC](https://gtr.ukri.org/projects?ref=studentship-2920537), UK.
   - area: MA Social Science Data Analysis
     institution: The Essex Summer School, UK
     date_start: 2024-07-01
