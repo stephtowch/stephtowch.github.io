@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ESRC-funded PhD Candidate in Psychology
+role: PhD Candidate in Psychology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -165,7 +165,7 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: brush
+        icon: palette
       - name: Travel
         description: ''
         percent: 80
@@ -195,4 +195,4 @@ awards:
       I was awarded a fully funded ESRC studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
-I am a Graduate Member of the British Psychological Society and the European Association of Work and Organizational Psychology. I am currently a PhD candidate in Psychology in the School of Psychological Sciences at Birkbeck, University of London. I am open to part-time work opportunities. My research interests include behavioural addictions, health psychology, psychometrics and data science.
+I am a Graduate Member of the British Psychological Society (GMBPsS) and the European Association of Work and Organizational Psychology (EAWOP). I am a PhD candidate in Psychology in the School of Psychological Sciences at Birkbeck, University of London who is funded by the Economic and Social Research Council (ESRC) for my research in work addiction, health and wellbeing. I am open to part-time work opportunities. My research interests include behavioural addictions, health psychology, psychometrics and data science.
