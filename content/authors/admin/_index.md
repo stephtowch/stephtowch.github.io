@@ -128,7 +128,7 @@ work:
     summary: |
       Led global finance technology initiatives, managing cross-functional teams of 25+ across 8 locations. Progressed through multiple roles with increasing responsibility:
       - **Project Manager, Global Finance Technology (2013-2020)**: Delivered critical finance and regulatory projects while managing timelines, budgets, and stakeholder relationships.
-      - **Change Manager (2012)**: Spearheaded transformation initiatives and conducted change impact assessments. 
+      - **Finance Change Manager (2012)**: Spearheaded transformation initiatives and conducted change impact assessments for finance teams. 
       - **Trader's Assistant, Commodities (2007-2012)**: Managed end-to-end trade lifecycle and led system migration projects.
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
