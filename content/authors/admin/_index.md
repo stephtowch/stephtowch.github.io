@@ -30,14 +30,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:stephanietowch@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/
   - icon: brands/github
     url: https://github.com/stephtowch
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/stephanie-towch-4b2549206/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Stephanie-Towch
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0008-4727-8305
 
 education:
   - area: PhD Behavioural Addiction
@@ -162,15 +162,15 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 90
+        percent: 100
         icon: person-simple-walk
       - name: Art
         description: ''
-        percent: 80
+        percent: 100
         icon: palette
       - name: Travel
         description: ''
-        percent: 80
+        percent: 100
         icon: globe-europe-africa
 
 languages:
