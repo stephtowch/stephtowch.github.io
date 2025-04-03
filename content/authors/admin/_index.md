@@ -158,11 +158,11 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: ARTIST PALETTE
+        icon: artpalette
       - name: Travel
         description: ''
         percent: 80
-        icon: 🛄
+        icon: plane
 
 languages:
   - name: English
