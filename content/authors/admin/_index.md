@@ -143,7 +143,7 @@ skills:
     items:
       - name: DATA SCIENCE
         description: ''
-        percent: 
+        percent: 100
         icon: chart-bar  
       - name: R
         description: ''
