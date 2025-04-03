@@ -22,7 +22,6 @@ sections:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-        style: 'width: 100%; height: auto;' 
     
       biography:
         # Customize the style of your biography text
