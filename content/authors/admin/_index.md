@@ -113,7 +113,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: '2022-10-01'
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Worked on the Neurodiversity in Business project at Birkbeck for 8 months, performing thematic analysis, designing a Qualtrics survey, and conducting quantitative analysis in R. Produced an 80-page report sponsored by the 	Neurodiversity in Business charity.
       - Teaching Assistant for the Principles of Experimental Psychology module (MSc Psychology) at Birkbeck, where I guided 20 students through statistical tests (e.g., t-tests, ANOVAs, regressions and factor analyses), supervised their 	research projects (design and analysis) and completed marking.
