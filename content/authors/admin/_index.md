@@ -71,6 +71,7 @@ education:
       - Leadership and Performance Management
       - Work and Wellbeing
       - Research Project (MSc Organizational Psychology)
+  
       **Grade: Merit**
     button:
       text: 'Read Thesis'
