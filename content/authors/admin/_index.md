@@ -40,12 +40,12 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Psychology
+  - area: PhD Behavioural Addiction
     institution: Birkbeck, University of London
     date_start: 2023-10-01
     date_end: 2029-03-31
     summary: |
-       Thesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Currently working on a systematic review study titled, "What is work addiction and what it is not: A systematic review of work addiction and workaholism (1971-2024) with implications for health and wellbeing.
+       Thesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Funded by the Economic and Social Research Council, UK.
   - area: MA Social Science Data Analysis
     institution: The Essex Summer School, UK
     date_start: 2024-07-01
@@ -56,13 +56,11 @@ education:
       - Confirmatory Factor Analysis and Structural Equation Modelling
       - Machine Learning for Social Scientists
       - Machine Learning for Estimating Treatment Effects from Observational Data
-      Courses included:
   - area: MSc Organizational Psychology
     institution: Birkbeck, University of London
     date_start: 2021-10-01
     date_end: 2023-09-30
     summary: |
-      Grade: (Merit)
       Thesis on "Exploring the relationship between work addiction and burnout" was published in The International Journal of Mental Health and Addictions. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). 
       Courses include:
       - Research Methods
@@ -73,6 +71,7 @@ education:
       - Leadership and Performance Management
       - Work and Wellbeing
       - Research Project (MSc Organizational Psychology)
+      **Grade: Merit**
     button:
       text: 'Read Thesis'
       url: 'https://link.springer.com/article/10.1007/s11469-024-01397-8'
@@ -81,7 +80,6 @@ education:
     date_start: 2019-10-01
     date_end: 2021-09-30
     summary: |
-      Grade: (Distinction)
       Thesis on "The effect of selective attention on auditory processing: Detection accuracy of task-relevant frequencies versus task-irrelevant sounds. Supervised by [Prof. Fred Dick](https://scholar.google.co.uk/citations?user=PQAis5EAAAAJ&hl=en). 
       Courses include:
       - Research Methods
@@ -92,12 +90,12 @@ education:
       - Learning and Memory
       - Perception, Attention and Performance
       - Research Project (MSc Psychology)
+      **Grade: Distinction**
   - area: BA (Hons) Financial Services
     institution: Bournemouth University, UK
     date_start: 2001-10-01
     date_end: 2005-08-31
     summary: |
-      Grade: (2:1, Merit)
       Thesis on "Afterwork: Final Salary versus Defined Benefits Pension Scheme"
       Courses include:
       - Investment Management
@@ -106,7 +104,7 @@ education:
       - Law of Personal Taxation 2
       - Vocational Language Studies - French Stage 5
       - Research Project (BA (Hons) Financial Services)
-
+      **Grade: 2:1**
 work:
   - position: Research Methods Teaching Assistant
     company_name: Birkbeck, University of London
