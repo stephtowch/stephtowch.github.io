@@ -38,6 +38,8 @@ profiles:
     url: https://www.researchgate.net/profile/Stephanie-Towch
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-4727-8305
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=d_n8WQYAAAAJ
 
 education:
   - area: PhD Behavioural Addiction
