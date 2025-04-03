@@ -106,7 +106,7 @@ education:
       - Vocational Language Studies - French Stage 5
       - Research Project (BA Hons Financial Services)
 
-selected work experience:
+work:
   - position: Research Assistant and Teaching Assistant
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
