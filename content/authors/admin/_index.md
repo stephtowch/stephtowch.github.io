@@ -51,11 +51,7 @@ education:
     date_start: 2024-07-01
     date_end: 2026-09-30
     summary: |
-      Courses included:
-      - Web Scraping and Data Management
-      - Confirmatory Factor Analysis and Structural Equation Modelling
-      - Machine Learning for Social Scientists
-      - Machine Learning for Estimating Treatment Effects from Observational Data
+      Courses included: 1) Web Scraping and Data Management, 2) Confirmatory Factor Analysis and Structural Equation Modelling, 3) Machine Learning for Social Scientists and 4) Machine Learning for Estimating Treatment Effects from Observational Data
   - area: MSc Organizational Psychology
     institution: Birkbeck, University of London
     date_start: 2021-10-01
