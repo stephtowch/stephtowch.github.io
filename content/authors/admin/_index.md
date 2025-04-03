@@ -11,7 +11,7 @@ last_name: Towch
 
 # Status emoji
 status:
-  icon: 💡
+  icon: 💬
 
 # Is this the primary user of the site?
 superuser: true
@@ -139,7 +139,8 @@ skills:
     items:
       - name: DATA SCIENCE
         description: ''
-        percent: 100    
+        percent: 100
+        icon: chart-bar  
       - name: R
         description: ''
         percent: 100
@@ -164,7 +165,7 @@ skills:
       - name: Art
         description: ''
         percent: 80
-        icon: artpalette
+        icon: 🎨
       - name: Travel
         description: ''
         percent: 80
