@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ESRC-funded PhD Psychology Student
+role: ESRC-funded PhD Candidate in Psychology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -106,58 +106,29 @@ education:
       - Vocational Language Studies - French Stage 5
       - Research Project (BA Hons Financial Services)
 
-work:
-  - position: Research Assistant and Demonstrator
+selected work experience:
+  - position: Research Assistant and Teaching Assistant
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
+    date_end: '2022-10-01'
     summary: |2-
       Responsibilities include:
       - Worked on the Neurodiversity in Business project at Birkbeck for 8 months, performing thematic analysis, designing a Qualtrics survey, and conducting quantitative analysis in R. Produced an 80-page report sponsored by the 	Neurodiversity in Business charity.
-      - Demonstrated for the Principles of Experimental Psychology module (MSc Psychology) at Birkbeck, where I guided 20 students through statistical tests (e.g., t-tests, ANOVAs, regressions and factor analyses), supervised their 	research projects (design and analysis) and completed marking.
-  - position: Project Manager, Global Finance Technology
-    company_name: JPMorgan Chase Bank
-    company_url: 'https://www.jpmorganchase.com/'
-    company_logo: ''
-    date_start: 2013-01-01
-    date_end: 2020-09-30
-    summary: |
-      Responsibilities include:
-      - Led virtual project teams of up to 25 individuals across 8 locations, taking ownership of project timelines, budgets, and successful delivery of finance and regulatory projects.
-      - Established and maintained robust working relationships with cross-functional teams, vendors and key business stakeholders. 
-      - Played a key leadership role in project coordination, test management, implementation management and documentation, ensuring project plan and objective adherence.
-  - position: Change Manager, Finance and Business Management
-    company_name: JPMorgan Chase Bank
-    company_url: 'https://www.jpmorganchase.com/'
-    company_logo: ''
-    date_start: 2012-01-01
-    date_end: 2012-12-31
-    summary: |
-      Responsibilities include:
-      - Spearheaded strategic transformation initiatives within JPMorgan's finance projects team, optimising processes and enhancing operational efficiency.
-      - Conducted comprehensive change impact assessments, identifying risks and developing mitigation strategies, while fostering stakeholder engagement and coordinating training programs.
-  - position: Trader's Assistant, Commodities Exotics Desk
-    company_name: JPMorgan Chase Bank
-    company_url: 'https://www.jpmorganchase.com/'
-    company_logo: ''
-    date_start: 2007-01-02
-    date_end: 2012-12-30
-    summary: |
-      Responsibilities include:
-      - Ownership of the complete end-to-end trade lifecycle, ensuring meticulous accuracy in trade capture and comprehensive risk management across diverse commodities.
-      - Led pivotal projects, notably the Pyramid to Athena transition and Index Swap Migration to Kapital. Oversaw thorough UAT testing, ensuring precision in trade capture. Demonstrated adept problem-solving skills, contributing to successful project outcomes.
-  - position: Settlements Analyst, Commodities Back Office
+      - Teaching Assistant for the Principles of Experimental Psychology module (MSc Psychology) at Birkbeck, where I guided 20 students through statistical tests (e.g., t-tests, ANOVAs, regressions and factor analyses), supervised their 	research projects (design and analysis) and completed marking.
+  - position: Senior Finance Technology Professional
     company_name: JPMorgan Chase Bank
     company_url: 'https://www.jpmorganchase.com/'
     company_logo: ''
     date_start: 2005-06-05
-    date_end: 2007-01-01
+    date_end: 2020-09-30
     summary: |
-      Responsibilities include:
-      - Ownership of settlements for the commodities desk, ensuring accuracy and integrity of financial transactions.
-      - Developed proficiency in commodities, finance, derivatives, and enhanced problem-solving skills through hands-on experience in a dynamic financial environment.
+      Led global finance technology initiatives, managing cross-functional teams of 25+ across 8 locations. Progressed through multiple roles with increasing responsibility:
+      - Project Manager, Global Finance Technology (2013-2020): Delivered critical finance and regulatory projects while managing timelines, budgets, and stakeholder relationships.
+      - Change Manager (2012): Spearheaded transformation initiatives and conducted change impact assessments. 
+      - Trader's Assistant, Commodities (2007-2012): Managed end-to-end trade lifecycle and led system migration projects.
+      - Settlements Analyst (2005-2007): Ensured accuracy of commodities transactions while developing industry expertise.
 
  # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -217,4 +188,4 @@ awards:
       I was awarded a fully funded ESRC studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
-I am a Graduate Member of the British Psychological Society and the European Association of Work and Organizational Psychology. I am currently working in the School of Psychological Sciences at Birkbeck, University of London as a research assistant and demonstrator. However, I am open to work opportunities. My research interests include behavioral addictions, health psychology, psychometrics and data science.
+I am a Graduate Member of the British Psychological Society and the European Association of Work and Organizational Psychology. I am currently a PhD canditdate in psychology in the School of Psychological Sciences at Birkbeck, University of London. I am open to part-time work opportunities. My research interests include behavioral addictions, health psychology, psychometrics and data science.
