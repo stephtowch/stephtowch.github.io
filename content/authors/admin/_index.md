@@ -176,7 +176,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: fas fa-bicycle
+        icon: bicycle
 
 languages:
   - name: English
