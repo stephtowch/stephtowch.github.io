@@ -1,4 +1,4 @@
----
+a---
 title: "Exploring the Relationship Between Work Addiction and Burnout"
 authors:
 - admin 
@@ -20,7 +20,7 @@ publishDate: "2025-14-04T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Int J Ment Health Addiction (2024). https://doi.org/10.1007/s11469-024-01397-8"
+publication: "_International Journal of Mental Health and Addiction (2024). https://doi.org/10.1007/s11469-024-01397-8"
 publication_short: ""
 
 #abstract: add paper's abstract
