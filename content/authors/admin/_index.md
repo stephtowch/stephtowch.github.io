@@ -168,11 +168,15 @@ skills:
       - name: Art
         description: ''
         percent: 100
-        icon: assets/media/artist-palette.svg
+        icon: paint-brush
       - name: Travel
         description: ''
         percent: 100
         icon: globe-europe-africa
+      - name: Cycling
+        description: ''
+        percent: 100
+        icon: bicycle
 
 languages:
   - name: English
