@@ -16,6 +16,6 @@ main:
   - name: Blog
     url: post/
     weight: 13
-  - name: Topics
-    url: /tags
-    weight: 14
+  #- name: Topics
+  #  url: /tags
+  #  weight: 14
