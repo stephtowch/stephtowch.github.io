@@ -193,7 +193,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Economic and Social Research Council Grant
+  - title: Economic and Social Research Council Grant (2024-2029)
     url: https://ubel-dtp.ac.uk/esrc-studentships-main-competition/#:~:text=What's%20on%20offer,figure%20includes%20the%20London%20Allowance.
     date: '2024-06-28'
     awarder: ESRC
