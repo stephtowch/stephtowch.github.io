@@ -73,4 +73,4 @@ of Mental Health and Addiction_. https://doi.org/10.1007/s11469-024-01397-8
 
 # {style="text-align: justify;"}
 
-Stay tuned and follow me on **[Linkedin](https://www.linkedin.com/in/stephanie-towch-4b2549206) for updates on my research!
+Stay tuned and follow me on **[Linkedin](https://www.linkedin.com/in/stephanie-towch-4b2549206)** for updates on my research!
