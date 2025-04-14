@@ -1,4 +1,4 @@
-a---
+---
 title: "Exploring the Relationship Between Work Addiction and Burnout"
 authors:
 - admin 
