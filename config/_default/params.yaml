@@ -30,12 +30,16 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: "navbar"
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Stephanie Towch" #modify for text on the left side
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Stephanie Towch. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
