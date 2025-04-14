@@ -40,7 +40,7 @@ that takes over one's life. People with work addiction often use work as a way t
 This can result in neglecting health, relationships and personal interests in favour of work. Even when individuals recognise the negative 
 impacts, they find it difficult to reduce their working hours, leading to emotional exhaustion and lower psychological well-being.
 
-## What were our findings?
+## About our study's findings
 
 In our study, we found that nearly 28% of participants exhibited signs of work addiction, with fewer than 4% meeting the criteria for severe 
 addiction. Those struggling with work addiction often experience burnout, which manifests in emotional, physical and mental exhaustion, 
@@ -59,7 +59,7 @@ burnout in those struggling with work addiction. We believe that workplace envir
 experiencing work addiction. Further research is needed to explore these factors and develop effective strategies for enhancing wellbeing 
 at work.
 
-## Implications for our research
+## Implications for our findings
 
 The implications of our research are highly relevant for both individuals and employers. It is crucial for both employers and employees to recognise 
 the risks of work addiction and its long-term impact on mental health. By strengthening psychological resources such as hope, self-efficacy, resilience, 
