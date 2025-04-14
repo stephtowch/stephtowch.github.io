@@ -8,7 +8,7 @@ categories:
 - Announcements
 
 #- Category 1
-date: "2025-04-18T00:00:00Z"
+date: "2025-04-14T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -16,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2025-04-18T00:00:00Z"
+lastmod: "2025-04-14T00:00:00Z"
 projects: []
 #subtitle: "Discussing the link between work addiction and burnout" #Inside post
 summary: "In this blog, I discuss our new study investigating the relationship between work addiction and burnout" #Pagina principal/Social
@@ -59,9 +59,12 @@ burnout in those struggling with work addiction. We believe that workplace envir
 experiencing work addiction. Further research is needed to explore these factors and develop effective strategies for enhancing wellbeing 
 at work.
 
-Ultimately, our study emphasises the need for both employers and employees to acknowledge the risks of work addiction and its long-term 
-effects on mental health. By enhancing psychological resources like hope, self-efficacy, resiliance and optimism, workplaces can take proactive 
-measures to manage work addiction and prevent burnout, promoting healthier work habits and a more balanced work-life dynamic.
+## Implications for our research
+
+The implications of our research are highly relevant for both individuals and employers. It is crucial for both employers and employees to recognise 
+the risks of work addiction and its long-term impact on mental health. By strengthening psychological resources such as hope, self-efficacy, resilience, 
+and optimism, workplaces can take proactive steps to address work addiction and prevent burnout, fostering healthier work habits and a more balanced work-life 
+dynamic.
 
 ## **Reference**
 
