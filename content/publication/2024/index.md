@@ -7,9 +7,9 @@ authors:
 author_notes:
 - Birkbeck, University of London, London, United Kingdom
 - University of Gdańsk, Gdańsk, Poland
-date: "2024-03-19T00:00:00Z" #publication date
-lastmod: "2024-10-05T00:00:00Z" #page update date
-doi: "10.1038/s41598-024-56358-x"
+date: "2024-10-01T00:00:00Z" #publication date
+lastmod: "2025-094-14T00:00:00Z" #page update date
+doi: "10.1007/s11469-024-01397-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-14-04T00:00:00Z"
