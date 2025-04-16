@@ -47,7 +47,7 @@ description: "How an unexpected interest in psychology turned into a research jo
 title: It was never the plan—But here I am, doing a PhD
 ---
 
-**Thinking about doing a PhD in psychology but unsure if it’s for you?**  
+**Thinking about doing a PhD but unsure if it’s for you?**  
 
 My journey into doctoral research wasn’t part of some master plan. It started in 2018, when I signed up for a few evening psychology courses at [Birkbeck, University of London](https://www.bbk.ac.uk/prospective/short-courses) mostly out of curiosity and uncertainty. I wasn’t sure if I’d complete them, but they opened a door I never saw coming.
 
