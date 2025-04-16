@@ -55,6 +55,6 @@ Now, I’m in the second year of my PhD in Psychology, with a few research proje
 
 ### *“It was never the plan. But here I am, doing a PhD.”*
 
-If you’ve taken a similar unexpected path—or are starting to wonder if research might be for you—I’d love to hear your story too.
+If you’ve taken a similar unexpected path, or are starting to wonder if research might be for you, I’d love to hear your story too.
 
 Follow me on **[LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206)** for updates on my research and reflections from the PhD life.
