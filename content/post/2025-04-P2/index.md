@@ -59,11 +59,13 @@ What followed was a full MSc in Psychology, then a second MSc in Organisational 
 
 ## Why I chose to keep studying  
 
-That’s when I realised: I didn’t just want to learn about behavioural addiction, I wanted to contribute to it. I wanted to fill the gaps, ask new questions and share my perspective through research.
+That’s when I realised... I didn’t just want to learn about behavioural addiction research, I wanted to contribute to it. I wanted to fill the gaps, ask new questions and share my perspective through research.
+This wasn’t my first career. I’d spent over 15 years working in finance, and while it gave me valuable experience, I was increasingly drawn to understanding why people work the way they do, not just how. That shift in perspective was subtle at first, but it grew stronger the more I studied.
+Ironically, as it turns out, study addiction has been identified as a precursor to work addiction ([Atroszko, 2016](https://pubmed.ncbi.nlm.nih.gov/27842448/). I didn’t realise that at the time, but in hindsight, it makes a lot of sense! 
 
 ## Where I am now  
 
-Now, I’m in the second year of my PhD in Psychology, with a few research projects on the go and even more questions driving me forward. It’s still not always easy to explain *why* I chose this path, especially when it wasn’t the original plan, but I know I’m where I’m supposed to be.
+Now, I’m in the second year of my PhD in Psychology at Birkbeck, with a few research projects on the go and even more questions driving me forward. It’s still not always easy to explain *why* I chose this path, especially when it wasn’t the original plan, but I know I’m where I’m supposed to be.
 
 ---
 
