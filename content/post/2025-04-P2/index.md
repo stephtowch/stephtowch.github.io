@@ -63,7 +63,7 @@ That’s when I realised... I didn’t just want to learn about behavioural addi
 
 This wasn’t my first career. I’d spent over 15 years working in finance, and while it gave me valuable experience, I was increasingly drawn to understanding *why* people work the way they do, not just how. That shift in perspective was subtle at first, but it grew stronger the more I studied.
 
-And Ironically, study addiction has been identified as a precursor to work addiction ([Atroszko, 2016](https://pubmed.ncbi.nlm.nih.gov/27842448/). I didn’t realise that at the time, but in hindsight, it makes a lot of sense! What started as curiosity became a deepening need to understand human behaviour, and now, a drive to contribute.
+And Ironically, study addiction has been identified as a precursor to work addiction ([Atroszko, 2016](https://pubmed.ncbi.nlm.nih.gov/27842448/)). I didn’t realise that at the time, but in hindsight, it makes a lot of sense! What started as curiosity became a deepening need to understand human behaviour, and now, a drive to contribute.
 
 ## Where I am now  
 
