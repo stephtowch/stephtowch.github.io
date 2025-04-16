@@ -1,11 +1,25 @@
 ---
-title: "It Was Never the Plan—But Here I Am, Doing a PhD"
+authors:
+- admin
+#- author2
+
+categories:
+- Research
+- Announcements
+
+#- Category 1
 date: "2025-04-21T00:00:00Z"
-lastmod: "2025-04-21T00:00:00Z"
 draft: false
 featured: false
-authors:
-  - admin
+image:
+  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/school-work-write-still-life-851328/)'
+  focal_point: ""
+  placement: 2
+  preview_only: true
+lastmod: "2025-04-21T00:00:00Z"
+projects: []
+#subtitle: "It Was Never the Plan—But Here I Am, Doing a PhD" #Inside post
+summary: "I never planned to do a PhD. But curiosity, short courses, and a growing interest in psychology turned into two MScs—and eventually, doctoral research in behavioural addiction." #Pagina principal/Social
 categories:
   - PhD Life
   - Research
@@ -22,7 +36,6 @@ keywords:
   - behavioural addiction
   - workaholism research
   - research motivation
-summary: "I never planned to do a PhD. But curiosity, short courses, and a growing interest in psychology turned into two MScs—and eventually, doctoral research in behavioural addiction."
 slug: "phd-psychology-journey"
 projects: []
 image:
@@ -31,6 +44,9 @@ image:
   preview_only: true
 reading_time: 3
 description: "How an unexpected interest in psychology turned into a research journey—from short courses to a PhD focused on behavioural addiction."
+---
+
+title: It Was Never the Plan—But Here I Am, Doing a PhD
 ---
 
 **Thinking about doing a PhD in psychology but unsure if it’s for you?**  
