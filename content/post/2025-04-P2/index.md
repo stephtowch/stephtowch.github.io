@@ -18,7 +18,7 @@ image:
   preview_only: true
 lastmod: "2025-04-16T00:00:00Z"
 projects: []
-#subtitle: "It Was Never the Plan—But Here I Am, Doing a PhD" #Inside post
+#subtitle: "It was never the plan, but here I am, doing a PhD" #Inside post
 summary: "I never planned to do a PhD. But curiosity, short courses, and a growing interest in psychology turned into two MScs—and eventually, doctoral research in behavioural addiction." #Pagina principal/Social
 categories:
   - PhD Life
