@@ -51,7 +51,7 @@ resilience) were better able to handle the pressures of work addiction. This res
 While job satisfaction also offered some protective benefits, it wasn’t sufficient on its own for those already battling work addiction.
 
 Our findings stress the importance of recognising work addiction as a serious mental health issue in the workplace. Although job satisfaction
-and personal psychological resources can help alleviate burnout, the strong link between work addiction and burnout remains concerning. 
+and psychological resources can help alleviate burnout, the strong link between work addiction and burnout remains concerning. 
 Other factors, such as individual coping mechanisms and workplace culture, also play significant roles.
 
 While psychological capital and job satisfaction offer some protection, our research shows that they alone are not enough to fully prevent 
