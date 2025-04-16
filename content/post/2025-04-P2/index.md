@@ -39,17 +39,17 @@ My journey into doctoral research wasn’t part of some master plan. It started 
 
 ## From Curiosity to Commitment  
 
-What followed was a full MSc in Psychology, then a second MSc in Organisational Psychology, where I first came across the topic of work addiction (or workaholism). That research project stuck with me—not just because of the content, but because of what was *missing* from it. The lack of UK-based research, the absence of work addiction from diagnostic manuals… I couldn’t let it go.
+What followed was a full MSc in Psychology, then a second MSc in Organisational Psychology, where I first came across the topic of work addiction (or workaholism). That research project stuck with me,not just because of the content, but because of what was *missing* from it. The lack of UK-based research, the absence of work addiction from diagnostic manuals… I couldn’t let it go.
 
 > *“The more I learned, the more I wanted to know.”*
 
-## Why I Chose to Stay in Academia  
+## Why I Chose to Keep Studying  
 
-That’s when I realised: I didn’t just want to learn about behavioural addiction—I wanted to contribute to it. I wanted to fill the gaps, ask new questions, and share my perspective through research.
+That’s when I realised: I didn’t just want to learn about behavioural addiction, I wanted to contribute to it. I wanted to fill the gaps, ask new questions and share my perspective through research.
 
 ## Where I Am Now  
 
-Now, I’m in the second year of my PhD in Psychology, with a few research projects on the go and even more questions driving me forward. It’s still not always easy to explain *why* I chose this path, especially when it wasn’t the original plan—but I know I’m where I’m supposed to be.
+Now, I’m in the second year of my PhD in Psychology, with a few research projects on the go and even more questions driving me forward. It’s still not always easy to explain *why* I chose this path, especially when it wasn’t the original plan, but I know I’m where I’m supposed to be.
 
 ---
 
