@@ -8,7 +8,7 @@ categories:
 - Announcements
 
 #- Category 1
-date: "2025-04-21T00:00:00Z"
+date: "2025-04-14T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -16,9 +16,9 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2025-04-21T00:00:00Z"
+lastmod: "2025-04-14T00:00:00Z"
 projects: []
-#subtitle: "It was never the plan, but here I am, doing a PhD" #Inside post
+#subtitle: "It Was Never the Plan - But Here I Am, Doing a PhD" #Inside post
 summary: "I never planned to do a PhD. But curiosity, short courses, and a growing interest in psychology turned into two MScs—and eventually, doctoral research in behavioural addiction." #Pagina principal/Social
 categories:
   - PhD Life
@@ -44,7 +44,7 @@ image:
   preview_only: true
 description: "How an unexpected interest in psychology turned into a research journey—from short courses to a PhD focused on behavioural addiction."
 
-title: It was never the plan, but here I am, doing a PhD
+title: It Was Never the Plan - But Here I Am, Doing a PhD
 ---
 
 **Thinking about doing a PhD but unsure if it’s for you?**  
