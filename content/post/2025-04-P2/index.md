@@ -44,7 +44,6 @@ image:
   preview_only: true
 reading_time: 3
 description: "How an unexpected interest in psychology turned into a research journey—from short courses to a PhD focused on behavioural addiction."
----
 
 title: It Was Never the Plan—But Here I Am, Doing a PhD
 ---
