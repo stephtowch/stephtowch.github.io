@@ -53,7 +53,7 @@ My journey into doctoral research wasn’t part of some master plan. It started 
 
 ## From curiosity to commitment  
 
-What followed was a full MSc in Psychology, then a second MSc in Organisational Psychology, where I first came across the topic of work addiction (or workaholism). That research project stuck with me,not just because of the content, but because of what was *missing* from it. The lack of UK-based research, the absence of work addiction from diagnostic manuals… I couldn’t let it go.
+What followed was a full MSc in Psychology, then a second MSc in Organisational Psychology, where I first came across the topic of work addiction (or workaholism). That research project stuck with me, not just because of the content, but because of what was *missing* from it. The lack of UK-based research, the absence of work addiction from diagnostic manuals… I couldn’t let it go.
 
 > *“The more I learned, the more I wanted to know.”*
 
