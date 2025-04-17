@@ -48,7 +48,7 @@ That’s monetising my productivity, thank you very much.
 
 ## 🏃‍♀️ 3. Prioritising My Physical Fitness  
 Going to the gym or out for a walk.
-Whether it’s a gym session or a long walk, it’s part of my academic stamina plan. A PhD is a marathon, not a sprint.
+It’s part of my academic stamina plan. A PhD is a marathon, not a sprint.
 
 ## 📖 4. Blog > Papers  
 “I *should* have finished reading all those papers by now...” 
