@@ -176,7 +176,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: bicycle
+        icon: 🚴
 
 languages:
   - name: English
