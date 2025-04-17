@@ -49,13 +49,13 @@ title: It Was Never the Plan - But Here I Am, Doing a PhD
 
 **Thinking about doing a PhD but unsure if it’s for you?**  
 
-My journey into doctoral research wasn’t part of some master plan. It started in 2018, when I signed up for a few short courses in psychology at [Birkbeck, University of London](https://www.bbk.ac.uk/prospective/short-courses) mostly out of curiosity and a bit of uncertainty. I wasn’t sure if I’d complete them, but they opened a door I never saw coming.
+My journey into doctoral research wasn’t part of some master plan. It started in 2018, when I signed up for a few short courses in psychology at [Birkbeck, University of London](https://www.bbk.ac.uk/prospective/short-courses) mostly out of curiosity (and a bit of uncertainty). I wasn’t sure if I’d complete them, but they opened a door I never saw coming.
 
 ## From curiosity to commitment  
 
 What followed was a full MSc in Psychology, then a second MSc in Organisational Psychology, where I first came across the topic of work addiction (or workaholism). That research project stuck with me, not just because of the content, but because of what was *missing* from it. The lack of UK-based research, the absence of work addiction from diagnostic manuals… I couldn’t let it go.
 
-> *“The more I learned, the more I wanted to know.”*
+> *The more I learned, the more I wanted to know.*
 
 ## Why I chose to keep studying  
 
