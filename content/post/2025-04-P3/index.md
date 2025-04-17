@@ -1,5 +1,5 @@
 ---
-title: "My Favourite Ways to Procrastinate (That I’ve Justified as 'Productive') – PhD Edition"
+title: "5 Ways to Procrastinate (That I’ve Justified as 'Productive') – PhD Edition"
 date: "2025-04-21T00:00:00Z"
 lastmod: "2025-01-22T00:00:00Z"
 draft: true
@@ -32,9 +32,9 @@ image:
 description: "From gym breaks to thesis re-outlines, these are the productivity-justified procrastination habits I’ve mastered during my PhD."
 ---
 
-🌀 **My Favourite Ways to Procrastinate (That I’ve Justified as “Productive”) – PhD Edition**
+🌀 **Because procrastination is fine as long as it’s cleverly disguised as progress.**
 
-Let’s face it—doing a PhD means constantly negotiating with your to-do list. And sometimes, those negotiations result in... creative detours. 
+Let’s face it, doing a PhD means constantly negotiating with your to-do list. And sometimes, those negotiations result in... creative detours. 
 
 Here are a few of my top-tier *“productive”* procrastination strategies:
 
