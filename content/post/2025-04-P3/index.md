@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Procrastinate (That I’ve Justified as 'Productive') – PhD Edition"
 date: "2025-04-21T00:00:00Z"
-lastmod: "2025-01-22T00:00:00Z"
+lastmod: "2025-01-21T00:00:00Z"
 draft: true
 featured: false
 authors:
@@ -22,6 +22,8 @@ keywords:
   - research habits
   - PhD student life
   - time management in academia
+image:
+  #caption: 'Image credit: [**Pixabay**]([https://pixabay.com/photos/time-alarm-clock-clock-watch-hours-2980690/)'
 summary: "A light-hearted look at how I (and probably many PhD students) procrastinate in surprisingly productive ways - from reorganising references to joining paid studies."
 slug: "productive-phd-procrastination"
 projects: []
@@ -71,4 +73,4 @@ Sometimes avoiding one task leads to surprising progress elsewhere.
 
 💭 What’s your go-to *“productive”* procrastination technique?
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206/) for my reflections from the PhD life and updates on my research.
+Let me know on [LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206/) and for updates on my research.
