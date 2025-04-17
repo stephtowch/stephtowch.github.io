@@ -32,7 +32,7 @@ image:
 description: "From gym breaks to thesis re-outlines, these are the productivity-justified procrastination habits I’ve mastered during my PhD."
 ---
 
-🌀 **Because procrastination is fine as long as it’s cleverly disguised as progress.**
+🌀 **Because procrastination is fine... as long as it’s cleverly disguised as progress.**
 
 Let’s face it, doing a PhD means constantly negotiating with your to-do list. And sometimes, those negotiations result in... creative detours. 
 
