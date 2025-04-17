@@ -35,8 +35,6 @@ description: "From gym breaks to thesis re-outlines, these are the productivity-
 🌀 **My Favourite Ways to Procrastinate (That I’ve Justified as “Productive”) – PhD Edition**
 
 Let’s face it—doing a PhD means constantly negotiating with your to-do list. And sometimes, those negotiations result in... creative detours. 
-#![My Favourite Ways to Procrastinate – Infographic](/images/procrastination.png)  
-#*Illustration: A flat digital infographic showing typical PhD procrastination habits.*
 
 Here are a few of my top-tier “productive” procrastination strategies:
 
@@ -54,7 +52,6 @@ Whether it’s a gym session or a long walk, it’s part of my academic stamina 
 
 ## 4. Blog > Papers  
 📖 “I *should* have finished reading all those papers by now...” 
-Not reading papers... and writing a blog instead.
 But instead, I’m writing a blog post about my research life. That’s research dissemination, obviously. 
 
 ## 5. Planning My Future PhD Outline 
