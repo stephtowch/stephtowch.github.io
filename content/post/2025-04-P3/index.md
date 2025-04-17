@@ -36,7 +36,7 @@ description: "From gym breaks to thesis re-outlines, these are the productivity-
 
 Let’s face it—doing a PhD means constantly negotiating with your to-do list. And sometimes, those negotiations result in... creative detours. 
 
-Here are a few of my top-tier “productive” procrastination strategies:
+Here are a few of my top-tier *“productive”* procrastination strategies:
 
 ## 1. Switching Studies  
 🧠 Putting off a difficult task on one study… by working on another study that’s way more interesting.  
