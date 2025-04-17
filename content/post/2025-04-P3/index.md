@@ -40,22 +40,27 @@ Here are a few of my top-tier *“productive”* procrastination strategies:
 
 ## 🧠 1. Switching Studies  
 Putting off a difficult task on one study… by working on another study that’s way more interesting.  
+
 Still research. Still progress. Technically not avoidance, right?
 
 ## 💸 2. Participating in Other People’s Research  
 Yes, I’m procrastinating—but I’m helping *science*. And getting paid. 
+
 That’s monetising my productivity, thank you very much.
 
 ## 🏃‍♀️ 3. Prioritising My Physical Fitness  
 Going to the gym or out for a walk.
+
 It’s part of my academic stamina plan. A PhD is a marathon, not a sprint.
 
 ## 📖 4. Blog > Papers  
 “I *should* have finished reading all those papers by now...” 
+
 But instead, I’m writing a blog post about my research life. That’s research dissemination, obviously. 
 
 ## 📚 5. Planning My Future PhD Outline 
 Revisiting my PhD outline and planning future studies. 
+
 Am I avoiding today’s to-do list? Yes. But I’m *strategising for tomorrow’s* (or the next year).
 
 ---
