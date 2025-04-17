@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Procrastinate (That I’ve Justified as 'Productive') – PhD Edition"
-date: "2025-04-21T00:00:00Z"
-lastmod: "2025-01-21T00:00:00Z"
+date: "2025-04-17T00:00:00Z"
+lastmod: "2025-01-17T00:00:00Z"
 draft: false
 featured: false
 authors:
