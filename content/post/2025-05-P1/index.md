@@ -1,5 +1,5 @@
 ---
-title: "No Coding Background, No Problem: How I Taught Myself R for My MSc Psychology Thesis"
+title: "No Coding Background, No Problem: How I Taught Myself R for My MSc Thesis"
 date: "2025-05-05T00:00:00Z"
 lastmod: "2025-05-205T00:00:00Z"
 draft: true
