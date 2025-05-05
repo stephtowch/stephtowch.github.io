@@ -36,13 +36,13 @@ summary: "With no formal training, I taught myself R in my 40s to complete a str
 slug: "learning-r-mscthesis"
 projects: []
 image:
-  focal_point: "center"
+  focal_point: "top"
   placement: 2
   preview_only: false
 description: "How I went from zero coding experience to analysing my MSc Psychology thesis data in R and why it sparked a new academic passion."
 ---
 
-## No Coding Background, No Problem: How I Taught Myself R for My MSc Thesis
+## From SPSS to R: How I Navigated My MSc Thesis Without a Coding Background
 
 When I began my MSc Psychology thesis, I had no experience coding. I wasn’t from a data science background, hadn’t taken any classes and was used to working in Excel and SPSS. But my project involved **Structural Equation Modelling (SEM)** and I quickly realised: SPSS wasn’t going to do what I needed.
 
