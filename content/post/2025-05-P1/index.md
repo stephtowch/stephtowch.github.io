@@ -36,7 +36,7 @@ summary: "With no formal training, I taught myself R in my 40s to complete a str
 slug: "learning-r-mscthesis"
 projects: []
 image:
-  focal_point: "top"
+  focal_point: "center"
   placement: 2
   preview_only: false
 description: "How I went from zero coding experience to analysing my MSc Psychology thesis data in R and why it sparked a new academic passion."
