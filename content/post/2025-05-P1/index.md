@@ -74,7 +74,7 @@ By the end of the project, I had learned how to:
 
 Something unexpected: I realised I actually liked the challenge of coding. It pushed me to think differently and gave me a new way to approach problems.
 
-After submitting my thesis, I enrolled in courses at the **Essex Summer School*** in Social Science Data Analysis, where I deepened my R skills in an intensive, hands-on setting. I took a Web Scraping and Data Management course where I learned SQL, and later solidified that learning in a Confirmatory Factor Analysis (CFA) and SEM class the following summer. These experiences helped me gain confidence in applying more complex methods and managing data more efficiently.
+After submitting my thesis, I enrolled in a couple of courses at the **[Essex Summer School](https://essexsummerschool.com/)** in Social Science Data Analysis, where I deepened my R skills in an intensive, hands-on setting. I took a Web Scraping and Data Management course where I learned SQL, and later solidified that learning in a Confirmatory Factor Analysis (CFA) and SEM class the following summer. These experiences helped me gain confidence in applying more complex methods and managing data more efficiently.
 
 I’ll be returning again this year to explore **machine learning** and more advanced statistical techniques.
 
