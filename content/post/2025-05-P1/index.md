@@ -31,7 +31,7 @@ keywords:
   - Quantitative Methods
   - Adult Education
 image:
-  #caption: 'Image credit: [**Pixabay**]([https://pixabay.com/photos/time-alarm-clock-clock-watch-hours-2980690/)'
+  #caption: 'Image credit: [**Pixabay**]([https://pixabay.com/photos/desk-office-wood-nature-computer-8380078/)'
 summary: "With no formal training, I taught myself R in my 40s to complete a structural equation modelling (SEM) project for my MSc Psychology thesis. Here’s how I did it—and why it’s never too late to start coding."
 slug: "learning-r-mscthesis"
 projects: []
