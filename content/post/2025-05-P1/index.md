@@ -42,7 +42,7 @@ image:
 description: "How I went from zero coding experience to analysing my MSc Psychology thesis data in R and why it sparked a new academic passion."
 ---
 
-## No Coding Background, No Problem: How I Taught Myself R for My MSc Psychology Thesis
+## No Coding Background, No Problem: How I Taught Myself R for My MSc Thesis
 
 When I began my MSc Psychology thesis, I had no experience coding. I wasn’t from a data science background, hadn’t taken any classes and was used to working in Excel and SPSS. But my project involved **Structural Equation Modelling (SEM)** and I quickly realised: SPSS wasn’t going to do what I needed.
 
