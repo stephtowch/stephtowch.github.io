@@ -38,7 +38,7 @@ Held in the beautiful and historic city of Prague, EAWOP (the European Associati
 
 ## The Symposium: Workaholism in the Modern Workplace
 
-The symposium, organised by [Pawel Atroszko](https://www.researchgate.net/profile/Pawel-Atroszko) and [Cristian Balducci](https://www.researchgate.net/profile/Cristian-Balducci-2), represented a network of scholars who have joined an international collaboration, the Work Addiction Network, aimed at strengthening the evidence base and raising awareness about workaholism. This initiative is part of a broader, emerging global effort to advance scientific understanding of work addiction and its impact on health, well-being, and organisational life.
+The symposium, organised by [Pawel Atroszko](https://www.researchgate.net/profile/Pawel-Atroszko) and [Cristian Balducci](https://www.researchgate.net/profile/Cristian-Balducci-2), represented a network of scholars who have joined an international collaboration, the [Work Addiction Network](https://workaddiction.org/), aimed at strengthening the evidence base and raising awareness about workaholism. This initiative is part of a broader, emerging global effort to advance scientific understanding of work addiction and its impact on health, well-being, and organisational life.
 
 While research over the past two decades has made it clear that workaholism is a serious individual, organisational, and public health concern, with estimated prevalence rates of up to 15% in Europe, it remains unrecognised in formal diagnostic manuals. In our increasingly digital, always-on work culture, workaholic tendencies are often overlooked or even rewarded, despite their significant long-term costs.
 
