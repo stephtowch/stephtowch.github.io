@@ -22,6 +22,8 @@ keywords:
   - psychological capital
   - burnout mediation
   - PhD journey
+image:
+  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/event-venue-auditorium-meeting-1597531/)'
 summary: "In May 2025, I presented my Master’s thesis research on work addiction at the European Association of Work and Organizational Psychology (EAWOP) Conference in Prague, marking my first international speaking engagement and a key milestone in my academic career."
 slug: "first-international-speaking-eawop-2025"
 projects: []
