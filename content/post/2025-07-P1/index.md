@@ -160,4 +160,6 @@ Systematic reviews are a cornerstone of evidence-based research. Although they a
 - [Open Science Framework](https://osf.io/)
 - [Book - Doing A Systematic Review: A Students Guide](https://amzn.eu/d/9AD2VEp)
 
+---
+
 Follow me on **[LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206)** for updates on my research and reflections from the PhD life.
