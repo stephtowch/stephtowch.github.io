@@ -1,7 +1,7 @@
 ---
 title: "How to Conduct a Systematic Review: A Step-by-Step Guide"
-date: "2025-07-17T00:00:00Z"
-lastmod: "2025-07-17T00:00:00Z"
+date: "2025-07-16T00:00:00Z"
+lastmod: "2025-07-16T00:00:00Z"
 draft: true
 featured: false
 authors:
@@ -22,6 +22,8 @@ keywords:
   - academic research methods
   - review protocol
   - literature synthesis
+image:
+  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/books-library-bookstore-study-7744938/)'
 image:
   focal_point: "center"
   placement: 2
@@ -56,14 +58,14 @@ Use a structured framework like **PICOSS** to formulate your research question. 
 
 **Example (PICOSS format):**
 - **Population**: Working adults in high-stress industries  
-- **Intervention**: Cognitive-behavioral stress management programs  
+- **Intervention**: Cognitive-behavioural stress management programs  
 - **Comparison**: No intervention or standard wellness program  
 - **Outcome**: Reduction in self-reported burnout levels  
-- **Study design**: Randomized controlled trials (RCTs) and quasi-experimental studies  
+- **Study design**: Randomised controlled trials (RCTs) and quasi-experimental studies  
 - **Setting**: Corporate workplaces in OECD countries  
 
 **Resulting research question:**  
-*Do cognitive-behavioral stress management programs reduce burnout levels among working adults in high-stress industries compared to no intervention or standard wellness programs in corporate settings?*
+*Do cognitive-behavioural stress management programs reduce burnout levels among working adults in high-stress industries compared to no intervention or standard wellness programs in corporate settings?*
 
 ---
 
