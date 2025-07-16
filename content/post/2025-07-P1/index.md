@@ -95,6 +95,7 @@ Use Boolean operators (AND, OR, NOT), keywords, and controlled vocabulary like M
 - **Title and abstract screening** to eliminate irrelevant studies.  
 - **Full-text screening** for eligibility based on inclusion/exclusion criteria.  
 Use two independent reviewers and resolve disagreements through discussion or a third reviewer.
+To support article screening for evidence synthesis, the `revtools` package in R may help with this. [Link](https://www.researchgate.net/publication/345682319_revtools_An_R_package_to_support_article_screening_for_evidence_synthesis)
 
 ---
 
