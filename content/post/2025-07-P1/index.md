@@ -102,7 +102,7 @@ To support article screening for evidence synthesis, the `revtools` package in R
 
 ### 5. Extract Data Systematically
 
-Develop a standardized data extraction form and collect:
+Develop a standardised data extraction form and collect:
 
 - Study characteristics (authors, year, country)  
 - Sample details and methods  
