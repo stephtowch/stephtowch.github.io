@@ -75,9 +75,8 @@ Burnout isn’t just about stress. It’s a measurable, diagnosable syndrome tha
 
 ## Learn More About the BST
 
-To find out more about the Burnout Syndrome Test, including access to the scale and scoring guidelines, visit the following page:
+To find out more about the Burnout Syndrome Test, including access to the scale and scoring guidelines, visit the following page: 👉 [Link](https://example.com/bst-info)  
 
-👉 [Learn more about the BST](https://example.com/bst-info)  
 ---
 
 Follow me on **[LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206)** for updates on my research.
