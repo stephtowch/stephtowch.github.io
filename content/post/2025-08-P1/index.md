@@ -63,13 +63,21 @@ Our analysis confirmed that the BST effectively captures the three key burnout d
 
 In the nationally representative sample, about **15%** of people met criteria for burnout using the BST. That’s a substantial portion of the workforce.
 
-The BST is short, reliable, and grounded in the latest clinical understanding of burnout. It offers researchers, HR professionals, and clinicians a new way to identify and track burnout. . This approach aligns with how experts now define the condition.
+The BST is short, reliable, and grounded in the latest clinical understanding of burnout. It offers researchers, HR professionals, and clinicians a new way to identify and track burnout. This approach aligns with how experts now define the condition.
 
 ---
 
 ## Final Thoughts
 
-Burnout isn’t just about stress—it’s a measurable, diagnosable syndrome that deserves accurate tools for detection. I’m proud to contribute a step forward in how we understand and assess it. I hope the BST will help create clearer insights, more targeted interventions, and ultimately, healthier workplaces.
+Burnout isn’t just about stress. It’s a measurable, diagnosable syndrome that deserves accurate tools for detection. I’m proud to contribute a step forward in how we understand and assess it. I hope the BST will help create clearer insights, more targeted interventions, and ultimately, healthier workplaces.
+
+---
+
+## Learn More About the BST
+
+To find out more about the Burnout Syndrome Test, including access to the scale and scoring guidelines, visit the following page:
+
+👉 [Learn more about the BST](https://example.com/bst-info)  
 ---
 
 Follow me on **[LinkedIn](https://www.linkedin.com/in/stephanie-towch-4b2549206)** for updates on my research.
