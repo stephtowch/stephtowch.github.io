@@ -62,7 +62,7 @@ These discussions broadened my perspective and emphasised the importance of addr
 
 ## Reflections and Takeaways  
 
-For me, this was more than just a conference—it was a chance to be part of a pioneering effort to shape the future of workaholism research and its practical implications.  
+For me, this was more than just a conference. It was a chance to be part of a pioneering effort to shape the future of workaholism research and its practical implications.  
 
 I left Gdańsk feeling grateful for the opportunity to share my work, inspired by the quality of discussions, and motivated to contribute to this growing field. Most importantly, I saw how my research fits into the larger picture of organisational prevention, policy, and well-being.  
 
