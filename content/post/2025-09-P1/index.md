@@ -1,7 +1,7 @@
 ---
 title: "Presenting at the First EAWOP Small Group Meeting on Workaholism Research in Gdańsk"
-date: "2025-10-19T00:00:00Z"
-lastmod: "2025-10-19T00:00:00Z"
+date: "2025-10-18T00:00:00Z"
+lastmod: "2025-10-18T00:00:00Z"
 draft: false
 featured: false
 authors:
