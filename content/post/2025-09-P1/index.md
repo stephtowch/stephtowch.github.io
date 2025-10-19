@@ -1,8 +1,8 @@
 ---
 title: "Presenting at the First EAWOP Small Group Meeting on Workaholism Research in Gdańsk"
-date: "2025-09-28T00:00:00Z"
-lastmod: "2025-09-28T00:00:00Z"
-draft: true
+date: "2025-10-19T00:00:00Z"
+lastmod: "2025-10-19T00:00:00Z"
+draft: false
 featured: false
 authors:
   - admin
@@ -29,7 +29,7 @@ image:
 summary: "Reflections on presenting my research at the first EAWOP Small Group Meeting on workaholism in Gdańsk, where researchers gathered to exchange ideas, establish a policy document, and highlight workaholism as a pressing organizational challenge."
 slug: "eawop-sgm-gdansk-workaholism"
 projects: []
-description: "As a PhD student, I presented my research on measuring work addiction at the first EAWOP Small Group Meeting on workaholism in Gdańsk. The meeting brought together leading scholars, initiated policy discussions, and emphasized the importance of organizational prevention."
+description: "As a PhD student, I presented my research on measuring work addiction at the first EAWOP Small Group Meeting on workaholism in Gdańsk. The meeting brought together leading scholars, initiated policy discussions, and emphasised the importance of organisational prevention."
 ---
 
 ## A Milestone in My PhD Journey  
