@@ -34,7 +34,7 @@ description: "As a PhD student, I presented my research on measuring work addict
 
 ## A Milestone in My PhD Journey  
 
-On September 25–26, 2025, I had the privilege of presenting my research at the **EAWOP Small Group Meeting (SGM) “Advancing Workaholism Research: Setting the Stage for Organizational Prevention”**, held at the University of Gdańsk. This was my second international conference presentation, and the first ever meeting dedicated solely to workaholism research.  
+In September 2025, I had the privilege of presenting my research at the **EAWOP Small Group Meeting (SGM) “Advancing Workaholism Research: Setting the Stage for Organizational Prevention”**, held at the University of Gdańsk. This was my second international conference presentation, and the first ever meeting dedicated solely to workaholism research.  
 
 ## Setting the Scene  
 
