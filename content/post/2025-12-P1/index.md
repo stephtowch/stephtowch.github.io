@@ -73,7 +73,7 @@ The full paper with technical details and methodology is available [link to pape
 
 ---
 
-*Have you experienced burnout? What do you think workplaces should do differently? I'd love to hear your thoughts in the comments.*
+*Have you experienced burnout? What do you think workplaces should do differently? I'd love to hear your thoughts.*
 
 ---
 
