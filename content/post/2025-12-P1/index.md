@@ -39,7 +39,7 @@ I'm excited to share that my latest research paper on burnout is now published. 
 
 ## The Problem
 
-In 2019, the World Health Organization officially recognised burnout in the ICD-11 as "a syndrome conceptualised as resulting from chronic workplace stress that has not been successfully managed." It's characterised by three dimensions:
+In 2019, the World Health Organization officially recognised burnout in the ICD-11 as "a syndrome conceptualised as resulting from chronic workplace stress that has not been successfully managed." It's characterised by three dimensions in the WHO ICD-11 (2025):
 
 - Feelings of energy depletion or exhaustion
 - Increased mental distance from one's job, or feelings of negativism or cynicism related to one's job
