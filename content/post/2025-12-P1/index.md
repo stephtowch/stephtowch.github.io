@@ -3,7 +3,7 @@ title: "Can You Measure Burnout?"
 date: "2025-12-05T00:00:00Z"
 lastmod: "2025-12-05T00:00:00Z"
 draft: true
-featured: true
+featured: false
 authors:
   - admin
 categories:
@@ -21,6 +21,8 @@ keywords:
   - WHO ICD-11
   - workplace stress
   - occupational phenomenon
+image:
+  #caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/burnout-match-burned-down-disease-2811677/)'
 image:
   focal_point: "center"
   placement: 2
