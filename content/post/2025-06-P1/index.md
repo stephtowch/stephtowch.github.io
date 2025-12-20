@@ -1,7 +1,7 @@
 ---
 title: "My First International Speaking Experience: Sharing My Research on Work Addiction at EAWOP 2025"
 date: "2025-06-11T00:00:00Z"
-lastmod: "2025-06-11T00:00:00Z"
+lastmod: "2025-12-20T00:00:00Z"
 draft: false
 featured: false
 authors:
