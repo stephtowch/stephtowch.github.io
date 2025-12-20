@@ -1,6 +1,6 @@
 ---
 title: "Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST)"
-date: "2025-12-01T00:00:00Z"
+date: "2025-12-20T00:00:00Z"
 lastmod: "2025-12-20T00:00:00Z"
 draft: false
 featured: false
