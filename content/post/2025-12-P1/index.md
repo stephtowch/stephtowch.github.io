@@ -25,7 +25,6 @@ image:
   # caption: 'Image credit: [**Pixabay**](https://pixabay.com/photos/burnout-match-burned-down-disease-2811677/)'
   focal_point: "center"
   placement: 2
-  preview_only: false
 
 summary: "Introducing the Burnout Syndrome Test (BST), a free psychometric tool aligned with WHO's ICD-11 definition. Validated in a UK nationally representative sample of over 1,000 workers."
 
