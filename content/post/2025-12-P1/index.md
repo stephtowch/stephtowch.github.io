@@ -1,8 +1,8 @@
 ---
-title: "Can You Measure Burnout?"
-date: "2025-12-05T00:00:00Z"
-lastmod: "2025-12-05T00:00:00Z"
-draft: true
+title: "Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST)"
+date: "2025-12-20T00:00:00Z"
+lastmod: "2025-12-20T00:00:00Z"
+draft: false
 featured: false
 authors:
   - admin
@@ -30,12 +30,12 @@ image:
 summary: "Introducing the Burnout Syndrome Test (BST), a free psychometric tool aligned with WHO's ICD-11 definition. Validated in a UK nationally representative sample of over 1,000 workers."
 slug: "burnout-syndrome-test"
 projects: []
-description: "Can you measure burnout? New research develops the Burnout Syndrome Test (BST), a validated assessment tool based on WHO ICD-11 criteria. Find out how this free tool helps identify burnout in 1 in 7 workers."
+description: "Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST). New research develops the Burnout Syndrome Test (BST), a validated assessment tool based on WHO ICD-11 criteria. Find out how this free tool helps identify burnout in 1 in 7 workers."
 ---
 
-## Can You Measure Burnout?
+## Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST)
 
-I'm excited to share that my latest research paper on burnout is now published. It tackles a question that might seem simple: can we actually measure burnout? The answer is more complex, and more important than you might think.
+I'm excited to share that my latest research paper on burnout is now published. Our study developed the Burnout Syndrome Test (BST), a new measure of burnout, aligned with current World Health Organization criteria.
 
 ## The Problem
 
@@ -69,7 +69,7 @@ Understanding burnout is just one piece of a larger effort. Prevention and treat
 
 The BST is freely available for use in research and practice. If you're interested in using the BST or discussing potential validation work in other languages, feel free to reach out.
 
-The full paper with technical details and methodology is available [link to paper].
+The full paper with technical details and methodology is available [link to paper](https://link.springer.com/article/10.1007/s11469-025-01603-1).
 
 ---
 
@@ -80,7 +80,7 @@ The full paper with technical details and methodology is available [link to pape
 ## Further Resources
 
 - [World Health Organization ICD-11 on Burnout](https://icd.who.int/browse/2025-01/mms/en#129180281)
-- [Burnout Syndrome Test (BST)](add link)
+- [Burnout Syndrome Test (BST)](https://static-content.springer.com/esm/art%3A10.1007%2Fs11469-025-01603-1/MediaObjects/11469_2025_1603_MOESM1_ESM.docx)
 - [WHO Guidelines on Mental Health at Work](https://www.who.int/publications/i/item/9789240053052)
 
 ---
