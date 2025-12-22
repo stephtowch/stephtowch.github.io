@@ -149,6 +149,23 @@ work:
       - **Trader's Assistant, Commodities (2007-2012)**: Managed end-to-end trade lifecycle and led system migration projects.
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
+# Conferences:
+  - name: EAWOP Small Group Meeting on Workaholism
+    location: Gdańsk, Poland
+    year: 2025
+    type: Oral presentation
+    description: First dedicated Small Group Meeting on workaholism research.
+
+  - name: EAWOP Conference
+    location: Prague, Czech Republic
+    year: 2025
+    type: Oral presentation
+    description: Presented in the Workaholism Symposium.
+
+  - name: UBEL Doctoral Training Conference
+    year: 2024
+    type: Attendance
+
 # Skills # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
