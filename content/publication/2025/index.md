@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Springer Nature Limited**](update-doi)'
+  caption: 'Image credit: [**Springer Nature Limited**](https://doi.org/10.1007/s11469-025-01603-1)'
   focal_point: ""
   preview_only: false
 
