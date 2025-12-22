@@ -117,7 +117,7 @@ work:
     company_url: 'https://bbk.ac.uk/'
     company_logo: ''
     date_start: 2023-10-01
-    date_end: 'Present'
+    date_end: '2027-07-31'
     summary: |
       My research is funded by the ESRC on work addiction, health and wellbeing.
   - position: Research Methods Teaching Assistant
@@ -150,7 +150,7 @@ work:
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
  # Skills # Add your own SVG icons to `assets/media/icons/`
-skills:
+ skills:
   - name: Technical Skills
     items:
       - name: DATA SCIENCE
@@ -189,7 +189,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: 🚴
+        icon: person-biking
 
 languages:
   - name: English
@@ -212,7 +212,7 @@ awards:
     awarder: ESRC
     icon: 
     summary: |
-      I was awarded a fully funded [ESRC]([https://www.ukri.org/councils/esrc/](https://gtr.ukri.org/projects?ref=studentship-2920537)) studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
+      I was awarded a fully funded [ESRC](https://gtr.ukri.org/projects?ref=studentship-2920537) studentship as part of the UBEL doctoral training program for my PhD in Psychology at Birkbeck, University of London to further my research in work addiction, health and wellbeing.
 ---
 
 Hello! I'm Stephanie Towch, a PhD student in Psychology at Birkbeck, University of London. The Economic and Social Research Council ([ESRC](https://www.ukri.org/councils/esrc/)) is funding my research in work addiction, health and wellbeing. I'm a Graduate Member of the [British Psychological Society](https://www.bps.org.uk/) (GMBPsS) and the [European Association of Work and Organizational Psychology](http://www.eawop.org) (EAWOP). Before academia, I worked in investment banking across finance technology, project management and commodities operations. I'm a big fan of quantitative research, psychometrics and machine learning. Here are some of the projects I've worked on over the years.
