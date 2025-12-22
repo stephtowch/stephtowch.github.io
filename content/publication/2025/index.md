@@ -5,12 +5,12 @@ authors:
 - Halley Pontes
 author_notes:
 - Birkbeck, University of London, London, United Kingdom
-date: "2025-10-01T00:00:00Z" #publication date
-lastmod: "2025-20-14T00:00:00Z" #page update date
+date: "2025-12-18T00:00:00Z" #publication date
+lastmod: "2025-12-22T00:00:00Z" #page update date
 doi: "tbc"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-20-04T00:00:00Z"
+publishDate: "2025-12-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publishDate: "2025-20-04T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Mental Health and Addiction (2025). https://doi.org/10.1007/s11469-024-01397-8"
+publication: "International Journal of Mental Health and Addiction (2025). https://doi.org/10.1007/s11469-025-01603-1"
 publication_short: ""
 
 #abstract: add paper's abstract
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1007/s11469-024-01397-8
+url_pdf: https://doi.org/10.1007/s11469-025-01603-1
 url_code: ''
 url_dataset: ''
 url_poster: ''
