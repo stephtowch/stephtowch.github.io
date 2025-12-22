@@ -42,10 +42,10 @@ profiles:
     url: https://scholar.google.com/citations?user=d_n8WQYAAAAJ
 
 education:
-  - area: PhD Behavioural Addiction
+  - area: PhD Psychology
     institution: Birkbeck, University of London
     date_start: 2023-10-01
-    date_end: 2029-03-31
+    date_end: 2027-07-31
     summary: |
        Thesis on work addiction, health and wellbeing. Supervised by [Dr. Halley M. Pontes](https://www.halleypontes.com/). Funded by the Economic and Social Research Council [ESRC](https://gtr.ukri.org/projects?ref=studentship-2920537), UK.
   - area: MA Social Science Data Analysis
@@ -58,6 +58,7 @@ education:
       - Confirmatory Factor Analysis and Structural Equation Modelling
       - Machine Learning for Social Scientists
       - Machine Learning for Estimating Treatment Effects from Observational Data
+      **Grade: Distinction - Research Thesis pending**
   - area: MSc Organizational Psychology
     institution: Birkbeck, University of London
     date_start: 2021-10-01
@@ -111,18 +112,31 @@ education:
 
       **Grade: 2:1**
 work:
+  - position: Research Scientist / PhD Researcher
+    company_name: Birkbeck, University of London
+    company_url: 'https://bbk.ac.uk/'
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 'Present'
+    summary: |
+      My research is funded by the ESRC on work addiction, health and wellbeing.
   - position: Research Methods Teaching Assistant
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
     company_logo: ''
     date_start: 2024-04-01
     date_end: '2024-10-01'
+    summary: |
+    Guided students through computer-based research methods exercises including descriptive statistics, inferential statistical tests (t-test, chi-square, ANOVAs, multiple linear and logistic regression, factor analysis) and led them to conduct their first experimental psychology quantitative research project including pre-registration of ethics, design and build of experiment in Gorilla, quantitative analysis in SPSS and lab report writing. 
+Module: The Principles of Experimental Psychology (MSc Psychology).
   - position: Research Assistant 
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
     company_logo: ''
     date_start: 2023-11-01
     date_end: '2024-06-01'
+    summary: |
+      As a Research Assistant, I worked on the Neurodiversity in Business project. My role focused on survey design/build (Qualtrics), qualitative analysis (thematic), statistical modelling analysis (SPSS and R Programming), and report writing, which was sponsored by the Neurodiversity in Business Charity.
   - position: Senior Finance Technology Professional
     company_name: JPMorgan Chase Bank
     company_url: 'https://www.jpmorganchase.com/'
