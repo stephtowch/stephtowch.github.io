@@ -127,7 +127,7 @@ work:
     date_start: 2024-04-01
     date_end: '2024-10-01'
     summary: |
-       Taught computer-based research methods (descriptive and inferential statistics, regression, factor analysis); supervised MSc students through experimental design (Gorilla), ethics pre-registration, data analysis (SPSS), and lab report writing.
+       Research methods teaching (descriptive and inferential statistics, regression, factor analysis); supervised MSc students through experimental design (Gorilla), ethics pre-registration, data analysis (SPSS), and lab report writing.
   - position: Research Assistant 
     company_name: Birkbeck, University of London
     company_url: 'https://bbk.ac.uk/'
