@@ -11,7 +11,7 @@ last_name: Towch
 
 # Status emoji
 status:
-  icon: "💬" #☕️💡💬 📚 👉 ❤️ 🦄✨*
+  icon: 💬 #☕️💡💬 📚 👉 ❤️ 🦄✨*
 
 # Is this the primary user of the site?
 superuser: true
@@ -149,8 +149,8 @@ work:
       - **Trader's Assistant, Commodities (2007-2012)**: Managed end-to-end trade lifecycle and led system migration projects.
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
- # Skills # Add your own SVG icons to `assets/media/icons/`
- skills:
+# Skills # Add your own SVG icons to `assets/media/icons/`
+skills:
   - name: Technical Skills
     items:
       - name: DATA SCIENCE
