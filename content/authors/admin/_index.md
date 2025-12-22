@@ -127,7 +127,7 @@ work:
     date_start: 2024-04-01
     date_end: '2024-10-01'
     summary: |
-    Guided students through computer-based research methods exercises including descriptive statistics, inferential statistical tests (t-test, chi-square, ANOVAs, multiple linear and logistic regression, factor analysis) and led them to conduct their first experimental psychology quantitative research project including pre-registration of ethics, design and build of experiment in Gorilla, quantitative analysis in SPSS and lab report writing. 
+       Guided students through computer-based research methods exercises including descriptive statistics, inferential statistical tests (t-test, chi-square, ANOVAs, multiple linear and logistic regression, factor analysis) and led them to conduct their first experimental psychology quantitative research project including pre-registration of ethics, design and build of experiment in Gorilla, quantitative analysis in SPSS and lab report writing. 
 Module: The Principles of Experimental Psychology (MSc Psychology).
   - position: Research Assistant 
     company_name: Birkbeck, University of London
