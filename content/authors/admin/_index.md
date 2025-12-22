@@ -149,7 +149,8 @@ work:
       - **Trader's Assistant, Commodities (2007-2012)**: Managed end-to-end trade lifecycle and led system migration projects.
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
-# Conferences:
+# Conferences
+conferences:
   - EAWOP Small Group Meeting on Workaholism (2025), Gdańsk, Poland - Oral presentation
   - EAWOP Conference (2025), Prague, Czech Republic - Oral presentation
   - UBEL Doctoral Training Conference (2024), London, UK - Attended
