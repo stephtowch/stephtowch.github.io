@@ -150,21 +150,10 @@ work:
       - **Settlements Analyst (2005-2007)**: Ensured accuracy of commodities transactions while developing industry expertise.
 
 # Conferences:
-  - name: EAWOP Small Group Meeting on Workaholism
-    location: Gdańsk, Poland
-    year: 2025
-    type: Oral presentation
-    description: First dedicated Small Group Meeting on workaholism research.
-
-  - name: EAWOP Conference
-    location: Prague, Czech Republic
-    year: 2025
-    type: Oral presentation
-    description: Presented in the Workaholism Symposium.
-
-  - name: UBEL Doctoral Training Conference
-    year: 2024
-    type: Attendance
+  - EAWOP Small Group Meeting on Workaholism (2025), Gdańsk, Poland - Oral presentation
+  - EAWOP Conference (2025), Prague, Czech Republic - Oral presentation
+  - UBEL Doctoral Training Conference (2024), London, UK - Attended
+  - Health and Wellbeing Conference (2024), Birmingham, UK - Attended
 
 # Skills # Add your own SVG icons to `assets/media/icons/`
 skills:
