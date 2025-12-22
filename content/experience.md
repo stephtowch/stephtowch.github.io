@@ -18,14 +18,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-- block: markdown
-    content:
-      title: Conferences & Presentations
-      text: |
-        - EAWOP Small Group Meeting on Workaholism (2025), Gdańsk, Poland — Oral presentation
-        - EAWOP Conference (2025), Prague, Czech Republic — Oral presentation
-        - UBEL Doctoral Training Conference (2024), London, UK — Attended
-        - Health and Wellbeing Conference (2024), Birmingham, UK — Attended
   - block: resume-skills
     content:
       title: Skills & Hobbies
