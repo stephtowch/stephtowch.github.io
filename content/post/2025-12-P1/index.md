@@ -41,7 +41,7 @@ slug: "burnout-syndrome-test"
 projects: []
 ---
 
-## Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST)
+## Can you Measure Burnout?
 
 I'm excited to share that my latest research paper on burnout is now published. Our study developed the Burnout Syndrome Test (BST), a new measure of burnout, aligned with current World Health Organization criteria.
 
@@ -63,7 +63,7 @@ We developed the Burnout Syndrome Test (BST), a brief questionnaire built specif
 
 The BST successfully captured all three dimensions of burnout. People with higher burnout scores also tended to report more work addiction, presenteeism, depression, and anxiety symptoms, but felt less engaged in their work. It performed consistently across genders.
 
-The burnout prevalence in our representative sample was 14.64%, roughly one in seven workers.
+The burnout prevalence in our representative sample in the UK was 14.64%, roughly one in seven workers.
 
 ## Why This Matters
 
