@@ -17,7 +17,7 @@ main:
     url: post/
     weight: 13
   - name: CV
-    url: assets/media/STEPHANIE_TOWCH_-_.pdf
+    url: media/STEPHANIE_TOWCH_-_.pdf
     weight: 13
   #- name: Topics
   #  url: /tags
