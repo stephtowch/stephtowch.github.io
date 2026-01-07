@@ -1,5 +1,5 @@
 ---
-title: "Measuring ICD-11 Burnout with the Burnout Syndrom Test (BST)"
+title: "Measuring ICD-11 Burnout with the Burnout Syndrome Test (BST)"
 date: "2025-12-20T00:00:00Z"
 lastmod: "2025-12-20T00:00:00Z"
 draft: false
@@ -32,7 +32,7 @@ image:
   placement: 2
   preview_only: false
 
-summary: "Introducing the Burnout Syndrome Test (BST), a free psychometric tool aligned with WHO's ICD-11 definition. Validated in a UK nationally representative sample of over 1,000 workers."
+summary: "Introducing the Burnout Syndrome Test (BST), a free psychometric tool aligned with WHO's ICD-11 definition. Validated in a UK nationally representative sample"
 
 description: "Measuring ICD-11 Burnout with the Burnout Syndrome Test (BST). New research develops the Burnout Syndrome Test (BST), a validated assessment tool based on WHO ICD-11 criteria. Find out how this free tool helps identify burnout in 1 in 7 workers."
 
