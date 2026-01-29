@@ -42,7 +42,7 @@ projects: []
 ---
 ## Can You Measure Work Addiction?
 
-  We often praise people for working hard. But for some, work stops being a choice and becomes a compulsion — harming health, relationships, and wellbeing. This pattern is known as work addiction (or workaholism). Despite increasing research attention, it is still not formally recognised in diagnostic manuals.
+  We often praise people for working hard. But for some, work stops being a choice and becomes a compulsion, harming health, relationships, and wellbeing. This pattern is known as work addiction (or workaholism). Despite increasing research attention, it is still not formally recognised in diagnostic manuals.
 
   That makes good measurement especially important.
 
