@@ -52,14 +52,14 @@ projects: []
 
   It follows the same core features seen in other addictions and  can show up in everyday life in ways like:
   
-  - Work taking over your thoughts, even when you’re off work, on holiday, or trying to sleep
-  - Needing to work more and more to feel satisfied or at ease
-  - Using work to cope with emotions, such as guilt, anxiety, stress, or low mood
-  - Trying to cut back on work but not being able to, even when you want to
-  - Feeling stressed or uncomfortable when you can’t work#
-  - Letting work crowd out other parts of life, like family, friends, hobbies, or rest
-  - Continuing to overwork despite harm, such as negative effects on physical or mental health
-
+  - **Work taking over your thoughts**, even when you’re off work, on holiday, or trying to sleep
+  - **Needing to work more and more** to feel satisfied or at ease
+  - **Using work to cope with emotions**, such as guilt, anxiety, stress, or low mood
+  - **Promising yourself you’ll cut back**, but finding that you never quite do
+  - **Feeling stressed or uncomfortable when you can’t work**, even when the break is supposed to be a good thing
+  - **Letting work squeeze out other parts of life**, like family, friends, hobbies, or rest
+  - **Worked so much that it started affecting your health**, like feeling constantly tired, stressed, or run down
+    
   The International Work Addiction Scale (IWAS) was designed to measure these patterns in a short, theory-based way.
 
   ## What We Did
