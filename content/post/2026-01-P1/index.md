@@ -90,7 +90,9 @@ projects: []
 
   The International Work Addiction Scale provides a validated tool for use in the UK, consistent with the components model of addiction. The full paper with technical details and methodology will be available soon.
 
-  Do you think overwork is normalised in your workplace? How should organisations respond when work becomes harmful? I’d love to hear your thoughts.
+---
+  *Do you think overwork is normalised in your workplace? How should organisations respond when work becomes harmful? I’d love to hear your thoughts.*
+---
 
   Follow me on LinkedIn for updates on my PhD journey and research on work, wellbeing, and mental health.
----
+
