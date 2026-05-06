@@ -27,7 +27,7 @@ keywords:
   - workplace wellbeing
 
 image:
-  # caption: 'Image credit: [**Pixabay**](https://pixabay.com/)'
+  # caption: 'Image credit: [**Pixabay**]([https://pixabay.com/](https://pixabay.com/photos/work-workaholic-writer-programmer-1627703/))'
   focal_point: "center"
   placement: 2
   preview_only: false
