@@ -1,6 +1,6 @@
 ---
 title: "When Hard Work Becomes Harmful: Validating the International Work Addiction Scale (IWAS)"
-date: "2026-01-29T00:00:00Z"
+date: "2026-05-06T00:00:00Z"
 lastmod: "2026-05-06T00:00:00Z"
 draft: false
 featured: false
