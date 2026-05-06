@@ -1,8 +1,8 @@
 ---
-title: "Measuring Work Addiction: Validating the International Work Addiction Scale (IWAS)"
+title: "When Hard Work Becomes Harmful: Validating the International Work Addiction Scale (IWAS)"
 date: "2026-01-29T00:00:00Z"
-lastmod: "2026-01-29T00:00:00Z"
-draft: true
+lastmod: "2026-05-06T00:00:00Z"
+draft: false
 featured: false
 
 authors:
@@ -32,70 +32,79 @@ image:
   placement: 2
   preview_only: false
 
-summary: "Validating the International Work Addiction Scale (IWAS) in the UK. A brief, reliable tool for measuring work addiction based on addiction theory."
+summary: "When hard work becomes harmful. New research validates the International Work Addiction Scale (IWAS) in the UK using nationally representative data."
 
-description: "Measuring work addiction in the UK. New research validates the International Work Addiction Scale (IWAS), a short psychometric tool grounded in the components model of addiction, using nationally representative data."
+description: "New research validates the International Work Addiction Scale (IWAS) in the UK. A brief and reliable tool for measuring work addiction using nationally representative data and modern psychometric methods."
 
 slug: "international-work-addiction-scale-uk"
 
 projects: []
 ---
-## Can You Measure Work Addiction?
+## When Hard Work Becomes Harmful
 
-  We often praise people for working hard. But for some, work stops being a choice and becomes a compulsion, harming health, relationships, and wellbeing. This pattern is known as work addiction (or workaholism). Despite increasing research attention, it is still not formally recognised in diagnostic manuals.
+We often praise long hours and constant productivity. But for some people, work stops being a choice and becomes a compulsion, one that can harm health, relationships, and wellbeing.
 
-  That makes good measurement especially important.
+This pattern is known as work addiction or workaholism. While research on it is growing, it is still not formally recognised in diagnostic manuals.
 
-  ## What Is Work Addiction?
 
-  Work addiction isn’t just about long hours or ambition. It involves a loss of control over work, where people feel driven to work even when it causes problems.
+That makes good measurement especially important.
 
-  It follows the same core features seen in other addictions and  can show up in everyday life in ways like:
+## What Is Work Addiction?
+
+Work addiction is not just about working long hours or being highly committed. It involves a loss of control, where people feel driven to work even when it causes problems.
+
+It reflects the same core features seen in other addictions and can show up in everyday life in ways like:
   
-  - **Work taking over your thoughts**, even when you’re off work, on holiday, or trying to sleep
-  - **Needing to work more and more** to feel satisfied or at ease
-  - **Using work to cope with emotions**, such as guilt, anxiety, stress, or low mood
-  - **Promising yourself you’ll cut back**, but finding that you never quite do
-  - **Feeling stressed or uncomfortable when you can’t work**, even when the break is supposed to be a good thing
-  - **Letting work squeeze out other parts of life**, like family, friends, hobbies, or rest
-  - **Worked so much that it started affecting your health**, like feeling constantly tired, stressed, or run down
+- Work taking over your thoughts, even when you are off work or trying to rest
+- Needing to work more over time to feel satisfied
+- Using work to cope with stress, anxiety, or low mood
+- Trying to cut back but not being able to
+- Feeling uncomfortable when not working
+- Letting work crowd out relationships and rest
+- Continuing to work despite negative effects on health
     
-  The International Work Addiction Scale (IWAS) was designed to measure these patterns in a short, theory-based way.
+The International Work Addiction Scale was designed to capture these patterns in a short and theory based way.
 
-  ## What We Did
+## What We Did
 
-  We validated two versions of the International Work Addiction Scale:
+We validated two versions of the International Work Addiction Scale:
 
-  - the 7-item version (IWAS-7)  
-  - the shorter 5-item version (IWAS-5)  
+- the 7-item version 
+- the 5-item version 
 
-  Data were collected from two UK samples, including a nationally representative group. To improve validity, analyses focused on 764 employed adults.
+Data came from two UK samples, including a nationally representative group. Analyses focused on 764 employed adults.
 
-  ## What We Found
+We used both traditional and modern psychometric approaches to test how well the scale works.
 
-  - Both versions measured one clear underlying construct: work addiction  
-  - The scales were reliable and valid, and aligned well with an existing work addiction measure  
-  - They worked equally well for men and women, with no gender differences in underlying levels  
-  - The 7-item scale was especially effective at identifying moderate to high levels of work addiction, particularly items related to conflict, relapse, and real-world problems  
+## What We Found
 
-  ## Why This Matters
+- Both versions captured a single underlying construct of work addiction
+- The scales showed good reliability and worked as expected in relation to an established work addiction measure
+- Scores related to other variables in ways that match theory
+- The scale worked the same way for men and women, with no differences in underlying levels
+- The 7 item version was especially informative for identifying moderate to higher levels of work addiction
+- Items related to conflict, relapse, and real life problems were particularly useful
 
-  Not all hard work is unhealthy. What distinguishes work addiction is compulsion, loss of control, and harm — not simply long hours or high commitment.
+## Why This Matters
 
-  The IWAS offers a quick and reliable way to assess work addiction without confusing it with healthy engagement. In cultures where overwork is often normalised or rewarded, having a sound tool to identify when work becomes harmful is an important step forward.
+Not all hard work is unhealthy. What distinguishes work addiction is compulsion, loss of control, and harm, not simply long hours or high enagement.
 
-  ## What’s Next
+The International Work Addiction Scale offers a quick and reliable way to assess work addiction without confusing it with healthy work involvement.
 
-  Work addiction remains an emerging area of research. Reliable measurement is foundational for improving theory, advancing research, and informing discussions about work and wellbeing.
+In cultures where overwork is often normalised or rewarded, having a clear way to identify when work becomes harmful is an important step.
 
-  The International Work Addiction Scale provides a validated tool for use in the UK, consistent with the components model of addiction. The full paper with technical details and methodology will be available soon.
+## What’s Next
+
+Work addiction is still an emerging area of research. Better measurement helps improve theory and supports future research on work and wellbeing.
+
+The International Work Addiction Scale provides a validated tool for use in the UK. The full paper with detailed methods and results will be available soon.
 
 ---
 
-  *Do you think overwork is normalised in your workplace? How should organisations respond when work becomes harmful? I’d love to hear your thoughts.*
+  *Do you think overwork is normalised in your workplace? How should organisations respond when work becomes harmful? I would be interested to hear your thoughts.*
   
 ---
 
-  Follow me on **[LinkedIn](https://www.linkedin.com/)** for updates on my PhD journey and research on work, wellbeing, and mental health.
+  Follow me on **[LinkedIn](https://www.linkedin.com/)** for updates on my PhD research on work, wellbeing, and mental health.
 
 ---
