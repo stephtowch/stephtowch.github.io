@@ -97,7 +97,7 @@ In cultures where overwork is often normalised or rewarded, having a clear way t
 
 Work addiction is still an emerging area of research. Better measurement helps improve theory and supports future research on work and wellbeing.
 
-The International Work Addiction Scale provides a validated tool for use in the UK. The full paper with technical details and methodology is available [link to paper](https://doi.org/10.1177/10731911261447068).
+The International Work Addiction Scale provides a validated tool for use in the UK. The full paper with technical details and methodology is available here: [link to paper](https://doi.org/10.1177/10731911261447068).
 
 ---
 
