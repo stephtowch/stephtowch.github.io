@@ -1,7 +1,7 @@
 ---
 title: "When Hard Work Becomes Harmful: Validating the International Work Addiction Scale (IWAS)"
-date: "2026-05-06T00:00:00Z"
-lastmod: "2026-05-06T00:00:00Z"
+date: "2026-05-28T00:00:00Z"
+lastmod: "2026-05-28T00:00:00Z"
 draft: false
 featured: false
 
@@ -82,7 +82,7 @@ We used both traditional and modern psychometric approaches to test how well the
 - The scales showed good reliability and worked as expected in relation to an established work addiction measure
 - Scores related to other variables in ways that match theory
 - The scale worked the same way for men and women, with no differences in underlying levels
-- The 7 item version was especially informative for identifying moderate to higher levels of work addiction
+- The 7-item version was especially informative for identifying moderate to higher levels of work addiction
 - Items related to conflict, relapse, and real life problems were particularly useful
 
 ## Why This Matters
@@ -97,7 +97,7 @@ In cultures where overwork is often normalised or rewarded, having a clear way t
 
 Work addiction is still an emerging area of research. Better measurement helps improve theory and supports future research on work and wellbeing.
 
-The International Work Addiction Scale provides a validated tool for use in the UK. The full paper with detailed methods and results will be available soon.
+The International Work Addiction Scale provides a validated tool for use in the UK. The full paper with technical details and methodology is available [link to paper](https://doi.org/10.1177/10731911261447068).
 
 ---
 
