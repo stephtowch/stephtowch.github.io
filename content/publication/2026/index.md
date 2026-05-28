@@ -1,9 +1,9 @@
 ---
 title: "The Psychometric Properties of the International Work Addiction Scale (IWAS) Using CTT and IRT in a Nationally Representative UK Sample"
 authors:
-- admin 
+- admin
+- Paweł Atroszko 
 - Halley Pontes
-- Paweł Atroszko
 author_notes:
 - Birkbeck, University of London, London, United Kingdom
 date: "2026-05-28T00:00:00Z" #publication date
