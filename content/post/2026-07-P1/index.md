@@ -43,7 +43,6 @@ slug: "what-do-you-do-with-a-free-summer"
 
 projects: []
 ---
-## What Do You Do With a Free Summer?
 As it's coming up to the end of the summer term, I realise for the first time in 8 years that I don't have any exams to sit! 
 
 For the last two years, I have been completing postgraduate modules at the [Essex Summer School](https://essexsummerschool.com/) (ESS) as part of an MA in Social Science Data Analysis. This training has been invaluable in helping me complete some of my [PhD Psychology](https://www.bbk.ac.uk/courses/phd/psychology) projects, focusing on measuring and predicting work addiction. Prior to that, I've had exams and dissertations related to my [MSc Organisational Psychology](https://www.bbk.ac.uk/courses/postgraduate/organizational-psychology) and [MSc Psychology](https://www.bbk.ac.uk/courses/postgraduate/psychology) courses.
