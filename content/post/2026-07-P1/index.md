@@ -30,7 +30,7 @@ keywords:
   - Essex Summer School
 
 image:
-  # caption: 'Image credit: [**Pixabay**]([https://pixabay.com/](https://pixabay.com/photos/mountains-canada-girl-outlook-snow-3959204/))'
+    # caption: 'Image credit: [**Pixabay**]([https://pixabay.com/](https://pixabay.com/photos/mountains-canada-girl-outlook-snow-3959204/))'
   focal_point: "center"
   placement: 2
   preview_only: false
