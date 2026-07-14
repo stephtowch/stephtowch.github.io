@@ -1,8 +1,8 @@
 ---
 title: "What Do You Do With a Free Summer?"
-date: "2026-07-13T00:00:00Z"
-lastmod: "2026-07-13T00:00:00Z"
-draft: false
+date: "2026-07-14T00:00:00Z"
+lastmod: "2026-07-14T00:00:00Z"
+draft: true
 featured: false
 
 authors:
