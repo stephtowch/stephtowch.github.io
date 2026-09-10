@@ -10,7 +10,7 @@ lastMod: "2026-09-10T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
-tags: [Tests, SNS-AT]
+tags: [Tests, BST]
 title: Burnout Syndrome Test (BST)
 aliases:
   - /tests/bst/
