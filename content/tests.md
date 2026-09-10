@@ -4,7 +4,7 @@ date: 2026-09-10 #change date when updating this page
 lastmod: "2026-09-10T00:00:00Z" #Last update
 pager: false
 ---
-Here you can browse and freely access the psychometric tests I have developed and validated. 
+Here you can browse and freely access the psychometric tests I have developed or validated. 
 I recommend that you first consult the original publication for the test of interest.
 
 {{% callout note %}}
