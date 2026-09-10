@@ -13,12 +13,15 @@ main:
   - name: Research
     url: /publication
     weight: 12
+  - name: Tests
+    url: /tests
+    weight: 13
   - name: Blog
     url: post/
-    weight: 13
+    weight: 14
   - name: CV
     url: /medias/CV.pdf
-    weight: 13
+    weight: 15
   #- name: Topics
   #  url: /tags
   #  weight: 14
