@@ -68,4 +68,3 @@ I am looking forward to the next stage of the PhD and to seeing where these rese
 
 Follow me on **[LinkedIn](https://www.linkedin.com/)** for updates on my PhD research on work, wellbeing, and mental health.
 
----
