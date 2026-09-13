@@ -64,8 +64,6 @@ As I move into the final year of my PhD, it was particularly useful to step back
 
 I am looking forward to the next stage of the PhD and to seeing where these research connections lead. Hopefully, I will be back at ICBA for the 12th International Conference on Behavioral Addictions in Banff in 2027.
 
-You can follow me on LinkedIn for updates on my PhD
-
 Follow me on **[LinkedIn](https://www.linkedin.com/)** for updates on my PhD research on work, wellbeing, and mental health.
 
 ---
