@@ -32,9 +32,9 @@ image:
   placement: 2
   preview_only: false
 
-summary: "Presenting My Research at the 11th International Conference on Behavioral Addictions in Istanbul"
+summary: "Presenting my research at the 11th International Conference on Behavioral Addictions in Istanbul"
 
-slug: "11th International Conference on Behavioral Addictions"
+slug: "11th-international-conference-on-behavioral-addictions"
 
 projects: []
 ---
