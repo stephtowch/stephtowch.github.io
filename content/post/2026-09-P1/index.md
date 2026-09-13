@@ -1,7 +1,7 @@
 ---
 title: "Presenting at the 11th International Conference on Behavioral Addictions in Istanbul"
-date: "2026-09-14T00:00:00Z"
-lastmod: "2026-09-14T00:00:00Z"
+date: "2026-09-13T00:00:00Z"
+lastmod: "2026-09-13T00:00:00Z"
 draft: false
 featured: false
 
@@ -63,6 +63,8 @@ The conference was also a valuable opportunity to meet researchers working in be
 As I move into the final year of my PhD, it was particularly useful to step back from my own research and think about where it fits within the wider behavioural addictions field. My PhD has focused on conceptualising, measuring, and predicting work addiction, and the conference reinforced for me the importance of developing rigorous approaches to measurement while continuing to understand how behavioural addictions relate to health and wellbeing.
 
 I am looking forward to the next stage of the PhD and to seeing where these research connections lead. Hopefully, I will be back at ICBA for the 12th International Conference on Behavioral Addictions in Banff in 2027.
+
+---
 
 Follow me on **[LinkedIn](https://www.linkedin.com/)** for updates on my PhD research on work, wellbeing, and mental health.
 
