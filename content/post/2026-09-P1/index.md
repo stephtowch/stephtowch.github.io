@@ -32,13 +32,13 @@ image:
   placement: 2
   preview_only: false
 
-summary: "Presenting my research at the 11th International Conference on Behavioral Addictions in Istanbul"
+summary: "Presenting at the 11th International Conference on Behavioral Addictions in Istanbul"
 
 slug: "11th-international-conference-on-behavioral-addictions"
 
 projects: []
 ---
-## Presenting My at the 11th International Conference on Behavioral Addictions in Istanbul
+## Presenting at the 11th International Conference on Behavioral Addictions in Istanbul
 
 Last month, I presented my research at the 11th International Conference on Behavioral Addictions (ICBA), in Istanbul, Turkey. Organised by the International Society for the Study of Behavioral Addictions (ISSBA) in collaboration with the Turkish Green Crescent Society, the conference brought together more than 400 researchers, clinicians, and health professionals from around the world.
 
