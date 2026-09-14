@@ -32,7 +32,7 @@ image:
   placement: 2
   preview_only: false
 
-summary: "Presenting at the 11th International Conference on Behavioral Addictions in Istanbul"
+summary: "My reflections on presenting at the 11th International Conference on Behavioral Addictions in Istanbul"
 
 slug: "11th-international-conference-on-behavioral-addictions"
 
