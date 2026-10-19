@@ -20,7 +20,7 @@ The Burnout Syndrome Test **[(Towch & Pontes, 2025)](https://doi.org/10.1007/s11
 2) Increased mental distance from one’s job, or feelings of negativism or cynicism related to one's job
 3) A sense of ineffectiveness and lack of accomplishment.
 
-The BST was developed to offer a more current assessment of Burnout Syndrome, as most existing tools were predated this definition and do not align with it. 
+The BST was developed to offer a more current assessment of Burnout Syndrome, as most existing tools predate this definition and do not align with it. 
 
 At the psychometric level, the BST was found to be reliable and to offer a unidimensional factor structure for measuring Burnout through 9 items capturing the key symptoms, as reported in the literature. The scale was originally developed in two samples: a non-representative group of 245 employees and a nationally representative sample of 758 employed individuals.
 
