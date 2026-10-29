@@ -18,7 +18,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Read My Latest Paper
-        url: 'https://link.springer.com/article/10.1007/s11469-025-01603-1'
+        url: 'https://doi.org/10.1177/10731911261447068'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
