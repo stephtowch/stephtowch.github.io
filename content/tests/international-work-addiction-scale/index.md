@@ -30,7 +30,7 @@ There are two versions of the IWAS:
 - **IWAS-7** – includes all seven components
 - **IWAS-5** – a shorter version that excludes tolerance and withdrawal and was developed particularly for cross-cultural research
 
-## Cross-cultural Devlopement
+## Cross-Cultural Devlopement
 
 Charzyńska and colleagues (2025) found that the IWAS-7 was invariant across 81 cultures, while the IWAS-5 was invariant across 85 cultures. This means that the scales measured work addiction in a comparable way across these cultural groups, allowing scores to be meaningfully compared. Higher work addiction scores were also associated with greater job stress, lower job satisfaction, and lower self-esteem across cultures. Across the 85 cultures included in the study, the mean prevalence of work addiction was 17.9%.
 
