@@ -30,7 +30,7 @@ There are two versions of the IWAS:
 - **IWAS-7** – includes all seven components
 - **IWAS-5** – a shorter version that excludes tolerance and withdrawal and was developed particularly for cross-cultural research
 
-**Cross-cultural devlopement**
+## Cross-cultural devlopement
 
 Charzyńska and colleagues (2025) found that the IWAS-7 was invariant across 81 cultures, while the IWAS-5 was invariant across 85 cultures. This means that the scales measured work addiction in a comparable way across these cultural groups, allowing scores to be meaningfully compared. Higher work addiction scores were also associated with greater job stress, lower job satisfaction, and lower self-esteem across cultures. Across the 85 cultures included in the study, the mean prevalence of work addiction was 17.9%.
 
@@ -39,7 +39,7 @@ Cut-off scores were established for both versions:
 - **IWAS-7**: ≥24
 - **IWAS-5**: ≥18
 
-**UK validation**
+## UK validation
 
 A subsequent validation study examined the psychometric properties of the IWAS in a nationally representative sample of employed adults in the United Kingdom **[(Towch et al., 2026)](https://doi.org/10.1177/10731911261447068).** 
 
@@ -49,7 +49,7 @@ An item response theory (IRT) analysis also found that all seven items had very 
 
 Together, these findings provide further evidence that the IWAS is a psychometrically robust measure of work addiction and is suitable for use in working populations.
 
-**Availability**
+## Availability
 
 The IWAS is freely available and can be used by researchers interested in work addiction. Its brief format makes it particularly useful for research where questionnaire length, participant time, or other resources are limited.
 
