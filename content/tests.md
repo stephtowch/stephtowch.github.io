@@ -1,7 +1,7 @@
 ---
 title: Psychometric Tests
 date: 2026-09-10 #change date when updating this page
-lastmod: "2026-09-10T00:00:00Z" #Last update
+lastmod: "2026-11-112T00:00:00Z" #Last update
 pager: false
 ---
 Here you can browse and freely access the psychometric tests I have developed or validated. 
@@ -16,3 +16,6 @@ If you wish to further develop and validate a test in another language, please d
 
 ## Burnout 
 - <a href="/tests/burnout-syndrome-test/" target="_blank">The Burnout Syndrome Test (BST)</a>
+
+## Work Addiction 
+- <a href="/tests/international-work-addiction-scale/" target="_blank">The International Work Addiction Scale (IWAS)</a>
