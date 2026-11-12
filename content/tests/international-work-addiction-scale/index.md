@@ -10,10 +10,10 @@ lastMod: "2026-11-12T00:00:00Z" #Last update YEAR-MM-DD
 projects: []
 #subtitle: Example
 #summary: Example
-tags: [Tests, BST]
+tags: [Tests, IWAS]
 title: International Work Addiction Scale
 aliases:
-  - /tests/bst/
+  - /tests/iwas/
 ---
 The International Work Addiction Scale (IWAS) **[(Charzyńska et al., 2025)](https://doi.org/10.1556/2006.2025.00005)** is a brief measure of work addiction developed from the Bergen Work Addiction Scale **[(Andreassen et al., 2012)](https://doi.org/10.1111/j.1467-9450.2012.00947.x)** and based on the  the components model of addiction **[(Griffiths, 2005)](https://doi.org/10.1080/14659890500114359)**. 
 
