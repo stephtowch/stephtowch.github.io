@@ -28,7 +28,9 @@ The scale assesses seven core components of addiction:
 
 There are two versions of the IWAS:
 - **IWAS-7** – includes all seven components
-- **IWAS-5** – a shorter version that excludes tolerance and withdrawal and was developed particularly for cross-cultural research
+- **IWAS-5** – a shorter version that excludes tolerance and withdrawal
+
+ The IWAS was developed for cross-cultural research.
 
 ## Cross-Cultural Devlopement
 
