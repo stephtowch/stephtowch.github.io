@@ -32,9 +32,7 @@ There are two versions of the IWAS:
 
 **Cross-cultural devlopement**
 
-Charzyńska and colleagues (2025) found that the IWAS-7 was invariant across 81 cultures, while the IWAS-5 was invariant across 85 cultures. This means that the scales measured work addiction in a comparable way across these cultural groups, allowing scores to be meaningfully compared.
-
-Higher work addiction scores were also associated with greater job stress, lower job satisfaction, and lower self-esteem across cultures.
+Charzyńska and colleagues (2025) found that the IWAS-7 was invariant across 81 cultures, while the IWAS-5 was invariant across 85 cultures. This means that the scales measured work addiction in a comparable way across these cultural groups, allowing scores to be meaningfully compared. Higher work addiction scores were also associated with greater job stress, lower job satisfaction, and lower self-esteem across cultures. 
 
 Cut-off scores were established for both versions:
 
