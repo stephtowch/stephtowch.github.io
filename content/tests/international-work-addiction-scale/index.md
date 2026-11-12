@@ -45,9 +45,7 @@ A subsequent validation study examined the psychometric properties of the IWAS i
 
 The IWAS-7 demonstrated strong validity and reliability and was invariant across several important demographic and occupational groups, including gender, age, managerial role, education, and work sector. There were no differences in latent work addiction levels between men and women or between public-sector, private-sector and self-employed workers, although differences were observed across age, education and managerial-role groups.
 
-An item response theory (IRT) analysis also found that all seven items had very high discrimination, indicating that they effectively distinguished between people with different levels of work addiction. The scale provided its greatest measurement precision at moderate to high levels of work addiction, rather than at the extreme ends of the trait.
-
-The withdrawal, conflict, and problems items provided particularly high levels of information, suggesting that these components may be especially informative for distinguishing between different levels of work addiction severity.
+An item response theory (IRT) analysis also found that all seven items had very high discrimination, indicating that they effectively distinguished between people with different levels of work addiction. The scale provided its greatest measurement precision at moderate to high levels of work addiction, rather than at the extreme ends of the trait. The withdrawal, conflict, and problems items provided particularly high levels of information, suggesting that these components may be especially informative for distinguishing between different levels of work addiction severity.
 
 Together, these findings provide further evidence that the IWAS is a psychometrically robust measure of work addiction and is suitable for use in working populations.
 
