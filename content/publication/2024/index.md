@@ -7,8 +7,8 @@ authors:
 author_notes:
 - Birkbeck, University of London, London, United Kingdom
 - University of Gdańsk, Gdańsk, Poland
-date: "2024-10-01T00:00:00Z" #publication date
-lastmod: "2025-094-14T00:00:00Z" #page update date
+date: "2026-02-01T00:00:00Z" #publication date
+lastmod: "2026-11-22T00:00:00Z" #page update date
 doi: "10.1007/s11469-024-01397-8"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: "2025-14-04T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Mental Health and Addiction (2024). https://doi.org/10.1007/s11469-024-01397-8"
+publication: "International Journal of Mental Health and Addiction (2026). https://doi.org/10.1007/s11469-024-01397-8"
 publication_short: ""
 
 #abstract: add paper's abstract
